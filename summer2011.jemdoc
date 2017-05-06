@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{summer2011.html}
+= Machine Learning Reading Group (MLRG) @ SAIL, USC
+~~~
+== Summer 2011 Schedule (3 pm Tuesday in RTH 320)
+- /2 Aug 2011/
+: {}N. J. Horton and K. P. Kleinman, [http://www.math.smith.edu/~nhorton/muchado.pdf Much ado about nothing: A comparison of missing data methods ad software to fit incomplete data regression models], The American Statistician, vol. 61, pp. 79-90, February 2007.
+: {}Discussion Leader: Naveen Kumar
+
+- /21 Jul 2011/
+: {}L. Breiman, [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.7654&rep=rep1&type=pdf Bagging predictors], Machine Learning, vol. 24, pp. 123-140, 1996.
+: {}Discussion Leader: Kartik Audhkhasi
+
+- /12 Jul 2011/
+: {}E. Candes, [http://videolectures.net/mlss09us_candes_ocsssrl1m/ An Overview of Compressed Sensing and Sparse Signal Recovery via L1 Minimization], Machine Learning Summer School, 2009.
+
+- /28 Jun 2011/
+: {}G. E. P. Box, [http://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf Science and statistics], Journal of the American Statistical Association, vol. 71, no. 356, pp. 791-799, December 1976.
+: {}Discussion Leaders: Mike Proctor, Nassos Katsamanis
+
+- /21 Jun 2011/
+: {}Review of current issue of IEEE Transactions on Pattern Analysis and Machine Intelligence.
+: {}E. Candes, [http://videolectures.net/mlss09us_candes_ocsssrl1m/ An Overview of Compressed Sensing and Sparse Signal Recovery via L1 Minimization], Machine Learning Summer School, 2009.
+
+- /7 Jun 2011/
+: {}E. Candes, [http://videolectures.net/mlss09us_candes_ocsssrl1m/ An Overview of Compressed Sensing and Sparse Signal Recovery via L1 Minimization], Machine Learning Summer School, 2009.

@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: analytics{UA-9916119-5}
+= Rahul Gupta 
+
+~~
+{}{img_left}{images/lab_image.JPG}{331px}{262px}{}
+PhD in Electrical Engineering (Curriculum Vitae available on request)\n
+Advisor: [http://sail.usc.edu/shri.php Prof. Shrikanth S. Narayanan]\n
+[http://sail.usc.edu Signal Analysis and Interpretation Lab]\n
+[http://ee.usc.edu Electrical Engineering Department]\n
+[http://viterbi.usc.edu Viterbi School of Engineering]\n
+[http://usc.edu University of Southern California], Los Angeles, CA, U.S.A.
+
+Previous Affiliations:\n
+(2006-2010) B. Tech. in Electrical Engineering\n
+Electrical Engineering Department\n
+[http://www.iitkgp.ac.in/ Indian Institute of Technology, Kharagapur], India
+~~
+
+~~~
+== Research interests
+
+I am interested in various techniques in machine learning and their application to behavior signal processing domain. 
+Previously, I have worked on training ensemble of experts and decoding non-verbal behavior in natural conversations.
+Currently, I am working on further understanding the non-verbal behavior with goal towards developing specialized machine learning algorithms for the same.
+~~~
+
+*I have recently moved to Amazon and am gradually migrating this website to [https://sites.google.com/site/guptarah1011/home here]. 
