@@ -1,19 +1,19 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-== Journal articles
+== 2017 
 
 - *Rahul Gupta*, and Shrikanth Narayanan, [https://arxiv.org/pdf/1612.04413.pdf Inferring object rankings based on noisy pairwise comparisons from multiple annotators], /arXiv preprint arXiv:1612.04413, 2017/. 
 
+- Sabyasachee Baruah, *Rahul Gupta*, and Shrikanth Narayanan, [A Knowledge Transfer and Boosting Approach to the Prediction of Affect in Movies], /ICASSP, 2017/ 
+
+== 2016
+
 - *Rahul Gupta*, Kartik Audhkhasi, Zach Jacokes, Agata Rozga, and Shrikanth Narayanan, [ Modeling multiple time series annotations based on ground truth inference and distortion], /IEEE Transactions on Affective Computing, 2016/. 
 
-- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, Analysis of engagement behavior in children during dyadic interactions using prosodic cues, /Computer Speech and Language, 2015/. 
+- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, Analysis of engagement behavior in children during dyadic interactions using prosodic cues, /Computer Speech and Language, 2016/. 
 
-- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [http://www.sciencedirect.com/science/article/pii/S088523081500073X Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language, 2015/. 
-
-== Conference/Workshop papers 
-
-- Sabyasachee Baruah, *Rahul Gupta*, and Shrikanth Narayanan, [A Knowledge Transfer and Boosting Approach to the Prediction of Affect in Movies], /ICASSP, 2017/ 
+- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [http://www.sciencedirect.com/science/article/pii/S088523081500073X Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language, 2016/. 
 
 - Krishna Somandepalli, *Rahul Gupta*, Md Nasir, Brandon Booth, Sungbok Lee and Shrikanth Narayanan, [http://dl.acm.org/citation.cfm?id=2988259 Online Affect Tracking with Multimodal Kalman Filters], /AVEC workshop, 2016/ 
 
@@ -23,6 +23,8 @@
 
 - Anil Ramakrishna, *Rahul Gupta*, Ruth Grossman and Shrikanth Narayanan, An Expectation Maximization approach to Joint Modeling of Multidimensional labels derived from Multiple Annotators, /Proc. Interspeech, 2016/.
 
+- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, Capturing the Structure of Electrodermal Activity with Deep Neural Networks, /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper), 2016/. 
+
 - Manoj Kumar, *Rahul Gupta*, Daniel Bone, Nikolaos Malandrakis, Somer Bishop and Shrikanth Narayanan, Objective Language Feature Analysis in Children with Neurodevelopmental Disorders during Autism Assessment, /Proc. Interspeech, 2016/.
 
 - Daniel Bone, Somer Bishop, *Rahul Gupta*, Sungbok Lee and Shrikanth Narayanan, Acoustic-Prosodic and Turn-Taking Features in Interactions with Children with Neurodevelopmental Disorders, /Proc. Interspeech, 2016/.
@@ -30,6 +32,8 @@
 - Brandon Booth, *Rahul Gupta*, Pavlos Papadopoulos, Ruchir Travadi and Shrikanth Narayanan, Automatic Estimation of Perceived Sincerity From Spoken Language, /Proc. Interspeech, 2016/.
 
 - *Rahul Gupta*, Theodora Chaspari, Jangwon Kim, Naveen Kumar, Daniel Bone and Shrikanth Narayanan, Pathological speech processing: state-of-the-art, current challenges, and future directions, /Proc. ICASSP, 2016/. 
+
+== 2015
 
 - *Rahul Gupta*, Theodora Chaspari, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, Analysis and modeling of the role of laughter in motivational interviewing based psychotherapy conversations, /Proc. Interspeech, 2015/. 
 
@@ -43,6 +47,12 @@
 
 - *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/765 A Mixture Of Experts Approach Towards Intelligibility Classification Of Pathological Speech], /Proc. ICASSP, 2015/.
 
+- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2023.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop, 2015/.
+
+- *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2080.pdf Predicting Affect in Music Using Regression Methods on Low Level Features], /Emotion in Music Challenge, MediaEval Workshop, 2015/.
+
+== 2014
+
 - *Rahul Gupta*,  Sankaranarayanan Ananthakrishnan, Zhaojun Yang, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/695 Variable Span Disfluency Detection in ASR Transcripts], /Proc. Interspeech, 2014/.
 
 - *Rahul Gupta*, Panayiotis Georgiou, David Atkins, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCQQFjAB&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F691&ei=78FnVIvXFKKxygO1rYHQBQ&usg=AFQjCNEbarvMUB_M6W5oLa8qWvW8AmkaJg&bvm=bv.79142246,d.bGQ Predicting Client's Inclination Towards Target Behavior Change in Motivational Interviewing and Investigating the Role of Laughter], /Proc. Interspeech, 2014/.
@@ -51,20 +61,16 @@
 
 - *Rahul Gupta*, Nikolaos Malandrakis, Bo Xiao, Tanaya Guha, Maarten Van Segbroeck, Matthew P Black, Alexandros Potamianos, Shrikanth S Narayanan, [http://dl.acm.org/citation.cfm?id=2661810 Multimodal prediction of affective dimensions and depression in human-computer interactions], /Audio Visual Emotion Challenge and Workshop, 2014/.
 
+- Naveen Kumar, *Rahul Gupta*, Tanaya Guha, Colin Vaz, Maarten VanSegbroeck, Jangwon Kim, Shrikanth Narayanan, [http://ceur-ws.org/Vol-1263/mediaeval2014_submission_24.pdf Affective Feature Design and Predicting Continuous Affective Dimensions from Music], /Emotion in Music Challenge, MediaEval Workshop, 2014/.
+
+== 2013
+
 - *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Fsail.usc.edu%2F~audhkhas%2Fdocs%2Fgupta_nvv_challenge_is13.pdf&ei=gsJnVLeCJqX4ywPcl4KIDw&usg=AFQjCNGA4JV6-kH24eodJ7H3Df3OV5-YBQ&bvm=bv.79142246,d.bGQ Paralinguistic event detection from speech using probabilistic time-series smoothing and masking], /Proc. Interspeech, 2013/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2013 \<\/span\> [http://viterbi.usc.edu/news/news/2013/a-four-peat.htm \<span style=\"color: OrangeRed\"\> (USC Viterbi News) \<\/span\>]*.
 
 - *Rahul Gupta*, Chi-Chun Lee, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCYQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F662&ei=VMJnVLHlBqvcywOmgYFA&usg=AFQjCNE6RCH-vTbcxjex-gbWXzpuQ5qF-g&bvm=bv.79142246,d.bGQ Assesment of a child's engagement behavior using sequence model based features], /Workshop on Affective Social Speech Signals, 2013/.
 
+== 2012
+
 - *Rahul Gupta*, Chi-Chun Lee, Daniel Bone, Agata Rozga, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCsQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F555&ei=s8JnVILPLMPiywOT9YHQDg&usg=AFQjCNGCNxmBWfe5wTGBbE3rzFSXPPsJyw&bvm=bv.79142246,d.bGQ Acoustical analysis of engagement behavior in children], /Third Workshop on Child, Computer and Interaction, 2012/.
 
 - *Rahul Gupta*, Chi-Chun Lee, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/534 Classification of emotional content of sighs in dyadic human interactions], /Proc. ICASSP, 2012/.
-
-== Abstract papers 
-
-- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2023.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop, 2015/.
-
-- *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2080.pdf Predicting Affect in Music Using Regression Methods on Low Level Features], /Emotion in Music Challenge, MediaEval Workshop, 2015/.
-
-- Naveen Kumar, *Rahul Gupta*, Tanaya Guha, Colin Vaz, Maarten VanSegbroeck, Jangwon Kim, Shrikanth Narayanan, [http://ceur-ws.org/Vol-1263/mediaeval2014_submission_24.pdf Affective Feature Design and Predicting Continuous Affective Dimensions from Music], /Emotion in Music Challenge, MediaEval Workshop, 2014/.
-
-- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, Capturing the Structure of Electrodermal Activity with Deep Neural Networks, /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper), 2016/. 
