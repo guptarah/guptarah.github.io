@@ -19,45 +19,45 @@
 
 == 2016
 
-- *Rahul Gupta*, Kartik Audhkhasi, Zach Jacokes, Agata Rozga, and Shrikanth Narayanan, [ Modeling multiple time series annotations based on ground truth inference and distortion], /IEEE Transactions on Affective Computing, 2016/. 
+- *Rahul Gupta*, Kartik Audhkhasi, Zach Jacokes, Agata Rozga, and Shrikanth Narayanan, [myPapers/smile_paper_final.pdf Modeling multiple time series annotations based on ground truth inference and distortion], /IEEE Transactions on Affective Computing, 2016/. 
 
-- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, Analysis of engagement behavior in children during dyadic interactions using prosodic cues, /Computer Speech and Language, 2016/. 
+- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL-Engagement-2016.pdf Analysis of engagement behavior in children during dyadic interactions using prosodic cues], /Computer Speech and Language, 2016/. 
 
-- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [http://www.sciencedirect.com/science/article/pii/S088523081500073X Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language, 2016/. 
+- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL2015-paralinguistics.pdf http://www.sciencedirect.com/science/article/pii/S088523081500073X Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language, 2016/. 
 
-- Krishna Somandepalli, *Rahul Gupta*, Md Nasir, Brandon Booth, Sungbok Lee and Shrikanth Narayanan, [http://dl.acm.org/citation.cfm?id=2988259 Online Affect Tracking with Multimodal Kalman Filters], /AVEC workshop, 2016/ 
+- Krishna Somandepalli, *Rahul Gupta*, Md Nasir, Brandon Booth, Sungbok Lee and Shrikanth Narayanan, [myPapers/2016_AVEC_camera_ready.pdf Online Affect Tracking with Multimodal Kalman Filters], /AVEC workshop, 2016/ 
 
-- *Rahul Gupta* and Shrikanth Narayanan, Predicting Affective Dimensions based on Self Assessed Depression Severity, /Proc. Interspeech, 2016/.
+- *Rahul Gupta* and Shrikanth Narayanan, [myPapers/gupta_predicting_IS160187.PDF Predicting Affective Dimensions based on Self Assessed Depression Severity], /Proc. Interspeech, 2016/.
 
-- *Rahul Gupta*, Nishant Nath, Taruna Agrawal, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, Laughter Valence Prediction in Motivational Interviewing based on Lexical and Acoustic Cues, /Proc. Interspeech, 2016/.
+- *Rahul Gupta*, Nishant Nath, Taruna Agrawal, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan,[myPapers/gupta2016_laughter-valenc.pdf Laughter Valence Prediction in Motivational Interviewing based on Lexical and Acoustic Cues], /Proc. Interspeech, 2016/.
 
-- Anil Ramakrishna, *Rahul Gupta*, Ruth Grossman and Shrikanth Narayanan, An Expectation Maximization approach to Joint Modeling of Multidimensional labels derived from Multiple Annotators, /Proc. Interspeech, 2016/.
+- Anil Ramakrishna, *Rahul Gupta*, Ruth Grossman and Shrikanth Narayanan, [myPapers/ramakrishna_IS160270.PDF An Expectation Maximization approach to Joint Modeling of Multidimensional labels derived from Multiple Annotators], /Proc. Interspeech, 2016/.
 
-- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, Capturing the Structure of Electrodermal Activity with Deep Neural Networks, /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper), 2016/. 
+- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, [myPapers/YounChaspariSteinCermakNarayanan_DeepNeuralNetworksEDAStructure_EMBC16.pdf Capturing the Structure of Electrodermal Activity with Deep Neural Networks], /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper), 2016/. 
 
-- Manoj Kumar, *Rahul Gupta*, Daniel Bone, Nikolaos Malandrakis, Somer Bishop and Shrikanth Narayanan, Objective Language Feature Analysis in Children with Neurodevelopmental Disorders during Autism Assessment, /Proc. Interspeech, 2016/.
+- Manoj Kumar, *Rahul Gupta*, Daniel Bone, Nikolaos Malandrakis, Somer Bishop and Shrikanth Narayanan, [myPapers/Manoj_kumar_IS160563.PDF Objective Language Feature Analysis in Children with Neurodevelopmental Disorders during Autism Assessment], /Proc. Interspeech, 2016/.
 
-- Daniel Bone, Somer Bishop, *Rahul Gupta*, Sungbok Lee and Shrikanth Narayanan, Acoustic-Prosodic and Turn-Taking Features in Interactions with Children with Neurodevelopmental Disorders, /Proc. Interspeech, 2016/.
+- Daniel Bone, Somer Bishop, *Rahul Gupta*, Sungbok Lee and Shrikanth Narayanan, [myPapers/Bone-etal_AcousticProsody-Turntaking_ASD-DD_Interspeech2016.pdf Acoustic-Prosodic and Turn-Taking Features in Interactions with Children with Neurodevelopmental Disorders], /Proc. Interspeech, 2016/.
 
-- Brandon Booth, *Rahul Gupta*, Pavlos Papadopoulos, Ruchir Travadi and Shrikanth Narayanan, Automatic Estimation of Perceived Sincerity From Spoken Language, /Proc. Interspeech, 2016/.
+- Brandon Booth, *Rahul Gupta*, Pavlos Papadopoulos, Ruchir Travadi and Shrikanth Narayanan, [myPapers/booth_IS161537.PDF Automatic Estimation of Perceived Sincerity From Spoken Language], /Proc. Interspeech, 2016/.
 
-- *Rahul Gupta*, Theodora Chaspari, Jangwon Kim, Naveen Kumar, Daniel Bone and Shrikanth Narayanan, Pathological speech processing: state-of-the-art, current challenges, and future directions, /Proc. ICASSP, 2016/. 
+- *Rahul Gupta*, Theodora Chaspari, Jangwon Kim, Naveen Kumar, Daniel Bone and Shrikanth Narayanan, [myPapers/Gupta_2016_ICASSP_pathology_survey.pdf Pathological speech processing: state-of-the-art, current challenges, and future directions], /Proc. ICASSP, 2016/. 
 
 == 2015
 
-- *Rahul Gupta*, Theodora Chaspari, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, Analysis and modeling of the role of laughter in motivational interviewing based psychotherapy conversations, /Proc. Interspeech, 2015/. 
+- *Rahul Gupta*, Theodora Chaspari, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, [myPapers/GuptaChaspariGeorgiouAtkinsNarayana_LaughterMotivationalInterviewPsychotherapy_Interspeech15.pdf Analysis and modeling of the role of laughter in motivational interviewing based psychotherapy conversations], /Proc. Interspeech, 2015/. 
 
-- Jangwon Kim, Md Nasir, *Rahul Gupta*, Maarten Van Segbroeck, Daniel Bone, Matthew Black, Zisis Iason Skordilis, Zhaojun Yang, Panayiotis Georgiou, Shrikanth Narayanan, Automatic estimation of Parkinson's disease severity from diverse speech tasksi, /Proc. Interspeech, 2015/. 
+- Jangwon Kim, Md Nasir, *Rahul Gupta*, Maarten Van Segbroeck, Daniel Bone, Matthew Black, Zisis Iason Skordilis, Zhaojun Yang, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/parkinsons_kim_interspeech.pdf Automatic estimation of Parkinson's disease severity from diverse speech tasks], /Proc. Interspeech, 2015/. 
 
-- Matthew Black, Daniel Bone, Zisis Iason Skordilis, *Rahul Gupta*, Wei Xia, Pavlos Papadopoulos, Sandeep Nallan Chakravarthula, Bo Xiao, Maarten Van Segbroeck, Jangwon Kim, Panayiotis Georgiou, Shrikanth Narayanan, Automated Evaluation of Non-Native English Pronunciation Quality: Combining Knowledge and Data-Driven Features at Multiple Time Scales, /Proc. Interspeech, 2015/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2015\<\/span\>*.
+- Matthew Black, Daniel Bone, Zisis Iason Skordilis, *Rahul Gupta*, Wei Xia, Pavlos Papadopoulos, Sandeep Nallan Chakravarthula, Bo Xiao, Maarten Van Segbroeck, Jangwon Kim, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/Black_Bone_NativenessChallenge_KnowledgeInspiredDataDriven_Interspeech_2015.pdf Automated Evaluation of Non-Native English Pronunciation Quality: Combining Knowledge and Data-Driven Features at Multiple Time Scales], /Proc. Interspeech, 2015/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2015\<\/span\>*.
 
-- *Rahul Gupta*, Naveen Kumar, Shrikanth Narayanan, [ Affect Prediction in Music using Boosted Ensemble of Filters], /Proc. EUSIPCO, 2015/.
+- *Rahul Gupta*, Naveen Kumar, Shrikanth Narayanan, [myPapers/music_eusipco.pdf Affect Prediction in Music using Boosted Ensemble of Filters], /Proc. EUSIPCO, 2015/.
 
-- Sandeep Nallan Chakravarthula, *Rahul Gupta*, Brian Baucom, Panayiotis Georgiou, [http://sail.usc.edu/~guptarah/papers/07178339.pdf A Language-Based Generative Model Framework For Behavioral Analysis Of Couples' Therapy], /Proc. ICASSP, 2015/.
+- Sandeep Nallan Chakravarthula, *Rahul Gupta*, Brian Baucom, Panayiotis Georgiou, [myPapers/couples_therapy_icassp15.pdf A Language-Based Generative Model Framework For Behavioral Analysis Of Couples' Therapy], /Proc. ICASSP, 2015/.
 
-- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/765 A Mixture Of Experts Approach Towards Intelligibility Classification Of Pathological Speech], /Proc. ICASSP, 2015/.
+- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [myPapers/Gupta-MOE-ICASSP2015.pdf A Mixture Of Experts Approach Towards Intelligibility Classification Of Pathological Speech], /Proc. ICASSP, 2015/.
 
-- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2023.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop, 2015/.
+- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [myPapers/mediaeva15_diverse_selection.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop, 2015/.
 
 - *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2080.pdf Predicting Affect in Music Using Regression Methods on Low Level Features], /Emotion in Music Challenge, MediaEval Workshop, 2015/.
 
