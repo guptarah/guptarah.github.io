@@ -1,7 +1,12 @@
 # jemdoc: menu{MENU}{publications.html}
-= Publications
+= Publications/Patents
 
 == 2019 
+
+- Archiman Dutta, *Rahul Gupta*, Subhadeep Chakraborty, Dhinesh Dhanasekaran, Deepak Kumar Nayak, Avik Sinha, [http://www.pat2pdf.org/pat2pdf/foo.pl?number=10,339,470 Techniques For Generating Machine Learning Training Data], /United States Patent/.
+
+- *Rahul Gupta*, Aman Alok, Shankar Ananthakrishnan, [https://arxiv.org/abs/1906.08858 One-vs-All Models for Asynchronous Training: An Empirical Analysis], /Interspeech, 2019/. 
+
 - *Rahul Gupta*, [https://arxiv.org/abs/1902.06818, Data augmentation for low resource sentiment analysis using generative adversarial networks] . /ICASSP, 2019/. 
 
 - Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [On evaluating CNN representations for low resource medical image classification] . /ICASSP, 2019/. 
