@@ -1,23 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}
+
 = Publications
-
-<button onclick="toggleList('myList')">Toggle List</button>
-<ul id="myList">
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-</ul>
-
-<script>
-    function toggleList(listId) {
-        var list = document.getElementById(listId);
-        if (list.style.display === 'none') {
-            list.style.display = 'block';
-        } else {
-            list.style.display = 'none';
-        }
-    }
-</script>
 
 == 2020
 
