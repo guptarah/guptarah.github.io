@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}
+= Publications/Patents
 
-= Publications
 
 == 2020
 
@@ -25,11 +25,12 @@
 - Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [On evaluating CNN representations for low resource medical image classification] . /ICASSP, 2019/. 
 
 == 2018 
+
 - Chengwei Su, *Rahul Gupta*, Shankar Ananthakrishnan  and Spyros Matsoukas, [https://arxiv.org/abs/1809.09605, A Re-ranker Scheme for Integrating Large Scale NLU Models]. /IEEE-SLT, 2018/. 
 
 - Saurabh Sahu, *Rahul Gupta*, and Carol Espy-Wilson, [https://arxiv.org/abs/1806.06626 On Enhancing Speech Emotion Recognition using Generative Adversarial Networks]. /Interspeech, 2018/. 
 
-- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [ Smoothing Model Predictions using Adversarial Training Procedures for Speech Based Emotion Recognition]. /ICASSP, 2018/. 
+- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [https://assets.amazon.science/06/68/a6cac10a4ea680b1ba8d14e35a09/smoothing-model-predictions-using-adversarial-training-procedures-for-speech-based-emotion-recognition.pdf Smoothing Model Predictions using Adversarial Training Procedures for Speech Based Emotion Recognition]. /ICASSP, 2018/. 
 
 - *Rahul Gupta*, Saurabh Sahu, Carol Espy-Wilson and Shrikanth Narayanan, [https://arxiv.org/abs/1806.02863 Semi-supervised and Transfer learning approaches for low resource sentiment classification]. /ICASSP, 2018/. 
 
