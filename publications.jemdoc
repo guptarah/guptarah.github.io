@@ -1,6 +1,42 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications/Patents
 
+== 2023
+- Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, Rahul Gupta, [https://arxiv.org/abs/2312.11779 Are you talking to [xem] or [x,em]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], 
+
+- Q Hu, P Goyal, R Gupta [Faithful Model Evaluation for Model-Based Metrics], EMNLP 
+
+- A Ramakrishna, R Gupta, J Lehmann, M Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], Findings of EMNLP 
+
+- Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
+
+- Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], 
+
+- J Sun, Y Tian, W Zhou, N Xu, Q Hu, R Gupta, JF Wieting, N Peng, X Ma, [Evaluating Large Language Models on Controlled Generation Tasks], EMNLP
+
+- Jack Good, Jimit Majmudar, Christophe Dupuy, Jixuan Wang, Charith Peris, Clement Chung, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2310.15054 Coordinated Replay Sample Selection for Continual Federated Learning], EMNLP industry track
+
+- Tiantian Feng, Digbalay Bose, Tuo Zhang, Rajat Hebbar, Anil Ramakrishna, Rahul Gupta, Mi Zhang, Salman Avestimehr, Shrikanth Narayanan, [https://arxiv.org/abs/2306.09486 FedMultimodal: A Benchmark For Multimodal Federated Learning], KDD
+
+- Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2305.09941 “I’m fully who I am”: Towards centering transgender and non-binary voices to measure biases in open language generation], ACM FAccT 
+
+- Ansel MacLaughlin, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav, Rahul Gupta, [https://www.amazon.science/publications/self-healing-through-error-detection-attribution-and-retraining, Self-healing through error detection, attribution, and retraining], ICASSP
+
+- Christophe Dupuy, Jimit Majmudar, Jixuan Wang, Tanya G Roosta, Rahul Gupta, Clement Chung, Jie Ding, Salman Avestimehr, [https://www.amazon.science/publications/quantifying-catastrophic-forgetting-in-continual-federated-learning Quantifying Catastrophic Forgetting in Continual Federated Learning], ICASSP
+
+- Rahul Gupta, Lisa Bauer, Kai-Wei Chang, Jwala Dhamala, Aram Galstyan, Palash Goyal, Qian Hu, Avni Khatri, Rohit Parimi, Charith Peris, Apurv Verma, Richard Zemel, Prem Natarajan, [https://dl.acm.org/doi/abs/10.1145/3539597.3575785 Incorporating Fairness in Large Scale NLU Systems], ICDM Industry day 
+
+- C Peris, C Dupuy, J Majmudar, R Parikh, S Smaili, R Zemel, R Gupta, [https://dl.acm.org/doi/abs/10.1145/3539597.3575792 Privacy in the Time of Language Models], ICDM Industry day
+
+- Jwala Dhamala, Varun Kumar, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2210.03826.pdf An analysis of the effects of decoding algorithms on fairness in open-ended language generation], IEEE Spoken Language Technology Workshop (SLT)
+
+- Ninareh Mehrabi, Palash Goyal, Apurv Verma, Jwala Dhamala, Varun Kumar, Qian Hu, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Rahul Gupta [https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models Resolving ambiguities in text-to-image generative models], ACL
+ 
+- Zefei Li, Anil Ramakrishna, Anna Rumshisky, Andy Rosenbaum, Saleh Soltan, Rahul Gupta [https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation Sampling bias in NLU models: Impact and mitigation], Interspeech
+ 
+== 2022
+
+== 2021
 
 == 2020
 
