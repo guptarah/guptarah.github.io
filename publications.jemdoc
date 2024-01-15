@@ -2,33 +2,33 @@
 = Publications/Patents
 
 == 2023
-- Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, Rahul Gupta, [https://arxiv.org/abs/2312.11779 Are you talking to \[xem\] or \[x,em\]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], 
+- Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, *Rahul Gupta*, [https://arxiv.org/abs/2312.11779 Are you talking to \[xem\] or \[x,em\]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], 
 
-- Q Hu, P Goyal, R Gupta [Faithful Model Evaluation for Model-Based Metrics], EMNLP 
+- Q Hu, P Goyal, Rahul Gupta [Faithful Model Evaluation for Model-Based Metrics], EMNLP 
 
-- A Ramakrishna, R Gupta, J Lehmann, M Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], Findings of EMNLP 
+- A Ramakrishna, *Rahul Gupta*, J Lehmann, M Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], Findings of EMNLP 
 
-- Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
+- Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, *Rahul Gupta*, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
 
-- Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], 
+- Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], 
 
-- J Sun, Y Tian, W Zhou, N Xu, Q Hu, R Gupta, JF Wieting, N Peng, X Ma, [Evaluating Large Language Models on Controlled Generation Tasks], EMNLP
+- J Sun, Y Tian, W Zhou, N Xu, Q Hu, *Rahul Gupta*, JF Wieting, N Peng, X Ma, [Evaluating Large Language Models on Controlled Generation Tasks], EMNLP
 
 - Jack Good, Jimit Majmudar, Christophe Dupuy, Jixuan Wang, Charith Peris, Clement Chung, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2310.15054 Coordinated Replay Sample Selection for Continual Federated Learning], EMNLP industry track
 
-- Tiantian Feng, Digbalay Bose, Tuo Zhang, Rajat Hebbar, Anil Ramakrishna, Rahul Gupta, Mi Zhang, Salman Avestimehr, Shrikanth Narayanan, [https://arxiv.org/abs/2306.09486 FedMultimodal: A Benchmark For Multimodal Federated Learning], KDD
+- Tiantian Feng, Digbalay Bose, Tuo Zhang, Rajat Hebbar, Anil Ramakrishna, *Rahul Gupta*, Mi Zhang, Salman Avestimehr, Shrikanth Narayanan, [https://arxiv.org/abs/2306.09486 FedMultimodal: A Benchmark For Multimodal Federated Learning], KDD
 
 - Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2305.09941 “I’m fully who I am”: Towards centering transgender and non-binary voices to measure biases in open language generation], ACM FAccT 
 
-- Ansel MacLaughlin, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav, Rahul Gupta, [https://www.amazon.science/publications/self-healing-through-error-detection-attribution-and-retraining, Self-healing through error detection, attribution, and retraining], ICASSP
+- Ansel MacLaughlin, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav, *Rahul Gupta*, [https://www.amazon.science/publications/self-healing-through-error-detection-attribution-and-retraining, Self-healing through error detection, attribution, and retraining], ICASSP
 
-- Christophe Dupuy, Jimit Majmudar, Jixuan Wang, Tanya G Roosta, Rahul Gupta, Clement Chung, Jie Ding, Salman Avestimehr, [https://www.amazon.science/publications/quantifying-catastrophic-forgetting-in-continual-federated-learning Quantifying Catastrophic Forgetting in Continual Federated Learning], ICASSP
+- Christophe Dupuy, Jimit Majmudar, Jixuan Wang, Tanya G Roosta, *Rahul Gupta*, Clement Chung, Jie Ding, Salman Avestimehr, [https://www.amazon.science/publications/quantifying-catastrophic-forgetting-in-continual-federated-learning Quantifying Catastrophic Forgetting in Continual Federated Learning], ICASSP
 
-- Rahul Gupta, Lisa Bauer, Kai-Wei Chang, Jwala Dhamala, Aram Galstyan, Palash Goyal, Qian Hu, Avni Khatri, Rohit Parimi, Charith Peris, Apurv Verma, Richard Zemel, Prem Natarajan, [https://dl.acm.org/doi/abs/10.1145/3539597.3575785 Incorporating Fairness in Large Scale NLU Systems], ICDM Industry day 
+- *Rahul Gupta*, Lisa Bauer, Kai-Wei Chang, Jwala Dhamala, Aram Galstyan, Palash Goyal, Qian Hu, Avni Khatri, Rohit Parimi, Charith Peris, Apurv Verma, Richard Zemel, Prem Natarajan, [https://dl.acm.org/doi/abs/10.1145/3539597.3575785 Incorporating Fairness in Large Scale NLU Systems], ICDM Industry day 
 
-- C Peris, C Dupuy, J Majmudar, R Parikh, S Smaili, R Zemel, R Gupta, [https://dl.acm.org/doi/abs/10.1145/3539597.3575792 Privacy in the Time of Language Models], ICDM Industry day
+- Charith Peris, Christophe Dupuy, Jimit Majmudar, R Parikh, S Smaili, R Zemel, *Rahul Gupta*, [https://dl.acm.org/doi/abs/10.1145/3539597.3575792 Privacy in the Time of Language Models], ICDM Industry day
 
-- Jwala Dhamala, Varun Kumar, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2210.03826.pdf An analysis of the effects of decoding algorithms on fairness in open-ended language generation], IEEE Spoken Language Technology Workshop (SLT)
+- Jwala Dhamala, Varun Kumar, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2210.03826.pdf An analysis of the effects of decoding algorithms on fairness in open-ended language generation], IEEE Spoken Language Technology Workshop (SLT)
 
 - Ninareh Mehrabi, Palash Goyal, Apurv Verma, Jwala Dhamala, Varun Kumar, Qian Hu, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Rahul Gupta [https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models Resolving ambiguities in text-to-image generative models], ACL
  
@@ -36,38 +36,37 @@
  
 == 2022
 
-- Caleb Ziems, William Held, Jingfeng Yang, Jwala Dhamala, Rahul Gupta, Diyi Yang [https://arxiv.org/pdf/2212.08011.pdf Multi-VALUE: A framework for cross-dialectal English NLP], ACL
+- Caleb Ziems, William Held, Jingfeng Yang, Jwala Dhamala, *Rahul Gupta*, Diyi Yang [https://arxiv.org/pdf/2212.08011.pdf Multi-VALUE: A framework for cross-dialectal English NLP], ACL
 
-- Manoj Kumar, Anna Rumshisky, Rahul Gupta, [https://aclanthology.org/2022.aacl-main.1.pdf Chasing the Tail with Domain Generalization: A Case Study on Frequency-Enriched Datasets], Asia-Pacific chapter of ACL
+- Manoj Kumar, Anna Rumshisky, *Rahul Gupta*, [https://aclanthology.org/2022.aacl-main.1.pdf Chasing the Tail with Domain Generalization: A Case Study on Frequency-Enriched Datasets], Asia-Pacific chapter of ACL
 
-- Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, Rahul Gupta, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan, [https://arxiv.org/pdf/2208.01448.pdf AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model]
+- Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, *Rahul Gupta*, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan, [https://arxiv.org/pdf/2208.01448.pdf AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model]
 
-- Manoj Kumar, Yuval Merhav, Haidar Khan, Rahul Gupta, Anna Rumshisky, Wael Hamza, [https://aclanthology.org/2022.naacl-industry.7.pdf Controlled Data Generation via Insertion Operations for NLU], NAACL Industry Track 
+- Manoj Kumar, Yuval Merhav, Haidar Khan, *Rahul Gupta*, Anna Rumshisky, Wael Hamza, [https://aclanthology.org/2022.naacl-industry.7.pdf Controlled Data Generation via Insertion Operations for NLU], NAACL Industry Track 
 
-- J Majmudar, C Dupuy, C Peris, S Smaili, R Gupta, R Zemel, [https://arxiv.org/pdf/2205.13621.pdf Differentially Private Decoding in Large Language Models], TrustNLP workshop @ ACL
+- Jimit Majmudar, Christophe Dupuy, Charith Peris, Sami Smaili, *Rahul Gupta*, Richard Zemel, [https://arxiv.org/pdf/2205.13621.pdf Differentially Private Decoding in Large Language Models], TrustNLP workshop @ ACL
 
-- N Vedula, R Gupta, A Alok, M Sridhar, S Ananthakrishnan, [https://assets.amazon.science/90/0f/1e1d481d4ba8b41b48825f05d797/advin-automatically-discovering-novel-domains-and-intents-from-user-text-utterances.pdf Advin: Automatically Discovering Novel Domains and Intents from User Text Utterances], ICASSP 
+- Nikhita Vedula, *Rahul Gupta*, Alok Alok, Mukund Sridhar, Shankar Ananthakrishnan, [https://assets.amazon.science/90/0f/1e1d481d4ba8b41b48825f05d797/advin-automatically-discovering-novel-domains-and-intents-from-user-text-utterances.pdf Advin: Automatically Discovering Novel Domains and Intents from User Text Utterances], ICASSP 
 
-- C Dupuy, TG Roosta, L Long, C Chung, R Gupta, S Avestimehr, [https://arxiv.org/pdf/2202.03925 Learnings from Federated Learning in the Real world], ICASSP
+- Christophe Dupuy, Tanya Roosta, Leo Long, Clement Chung, *Rahul Gupta*, Salman Avestimehr, [https://arxiv.org/pdf/2202.03925 Learnings from Federated Learning in the Real world], ICASSP
 
-- C Dupuy, R Arava, R Gupta, A Rumshisky, [https://arxiv.org/pdf/2107.14586 An Efficient DP-SGD Mechanism for Large Scale NLU Models], ICASSP
+- Christophe Dupuy, Radhika Arava, *Rahul Gupta*, Anna Rumshisky, [https://arxiv.org/pdf/2107.14586 An Efficient DP-SGD Mechanism for Large Scale NLU Models], ICASSP
 
-- Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta, [https://arxiv.org/pdf/2205.03092 Federated Learning with Noisy User Feedback], NAACL
+- Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, *Rahul Gupta*, [https://arxiv.org/pdf/2205.03092 Federated Learning with Noisy User Feedback], NAACL
 
-- Training Mixed-Domain Translation Models via Federated Learning [https://arxiv.org/pdf/2205.01557 P Passban, T Roosta, R Gupta, A Chadha, C Chung], NAACL
+- Peyman Passban, Tanya Roosta, *Rahul Gupta*, Aman Chadha, Clement Chung, [https://arxiv.org/pdf/2205.01557 Training Mixed-Domain Translation Models via Federated Learning], NAACL 
 
-- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, Rahul Gupta, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], NAACL findings 
-Authors
+- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, *Rahul Gupta*, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], NAACL findings 
 
-- R Parikh, C Dupuy, R Gupta, [https://arxiv.org/pdf/2203.13920 Canary Extraction in Natural Language Understanding Models], ACL
+- Rahil Parikh, Christophe Dupuy, *Rahul Gupta*, [https://arxiv.org/pdf/2203.13920 Canary Extraction in Natural Language Understanding Models], ACL
 
-- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, Rahul Gupta, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], ACL findings
+- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, *Rahul Gupta*, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], ACL findings
 
-- S Krishna, R Gupta, A Verma, J Dhamala, Y Pruksachatkun, KW Chang, [https://arxiv.org/pdf/2203.08670 Measuring Fairness of Text Classifiers via Prediction Sensitivity], ACL
+- Satyapriya Krishna, *Rahul Gupta*, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang, [https://arxiv.org/pdf/2203.08670 Measuring Fairness of Text Classifiers via Prediction Sensitivity], ACL
 
-- Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, Rahul Gupta, Varun Kumar, Jwala Dhamala, Aram Galstyan, [https://arxiv.org/abs/2203.13928 On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations], ACL
+- Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, Varun Kumar, Jwala Dhamala, Aram Galstyan, [https://arxiv.org/abs/2203.13928 On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations], ACL
 
-- Stefan Schroedl, Manoj Kumar, Kiana Hajebi, Morteza Ziyadi, Sriram Venkatapathy, Anil Ramakrishna, Rahul Gupta, Pradeep Natarajan [https://assets.amazon.science/8f/04/31abfecb47518e4e1e64f1f4913c/improving-large-scale-conversational-assistants-using-model-interpretation-based-training-sample-selection.pdf Improving large-scale conversational assistants using model interpretation based training sample selection], EMNLP Industry track 
+- Stefan Schroedl, Manoj Kumar, Kiana Hajebi, Morteza Ziyadi, Sriram Venkatapathy, Anil Ramakrishna, *Rahul Gupta*, Pradeep Natarajan [https://assets.amazon.science/8f/04/31abfecb47518e4e1e64f1f4913c/improving-large-scale-conversational-assistants-using-model-interpretation-based-training-sample-selection.pdf Improving large-scale conversational assistants using model interpretation based training sample selection], EMNLP Industry track 
 
 == 2021
 
