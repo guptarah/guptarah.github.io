@@ -4,196 +4,194 @@
 == 2023
 - Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, *Rahul Gupta*, [https://arxiv.org/abs/2312.11779 Are you talking to \[xem\] or \[x,em\]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], 
 
-- Qian Hu, Palash Goyal, Rahul Gupta [Faithful Model Evaluation for Model-Based Metrics], EMNLP 
+- Qian Hu, Palash Goyal, Rahul Gupta [Faithful Model Evaluation for Model-Based Metrics], /EMNLP/ 
 
-- Anil Ramakrishna, *Rahul Gupta*, Jens Lehmann, Morteza Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], EMNLP Findings 
+- Anil Ramakrishna, *Rahul Gupta*, Jens Lehmann, Morteza Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], /EMNLP Findings/ 
 
 - Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, *Rahul Gupta*, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
 
 - Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], 
 
-- Jiao Sun, Yufei Tian, Wangchunshu Zhou, Nan Xu, Qian Hu, Rahul Gupta, John Frederick Wieting, Nanyun Peng, Xuezhe Ma, [https://arxiv.org/abs/2310.14542 Evaluating Large Language Models on Controlled Generation Tasks], EMNLP
+- Jiao Sun, Yufei Tian, Wangchunshu Zhou, Nan Xu, Qian Hu, Rahul Gupta, John Frederick Wieting, Nanyun Peng, Xuezhe Ma, [https://arxiv.org/abs/2310.14542 Evaluating Large Language Models on Controlled Generation Tasks], /EMNLP/
 
-- Jack Good, Jimit Majmudar, Christophe Dupuy, Jixuan Wang, Charith Peris, Clement Chung, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2310.15054 Coordinated Replay Sample Selection for Continual Federated Learning], EMNLP industry track
+- Jack Good, Jimit Majmudar, Christophe Dupuy, Jixuan Wang, Charith Peris, Clement Chung, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2310.15054 Coordinated Replay Sample Selection for Continual Federated Learning], /EMNLP industry track/
 
-- Tiantian Feng, Digbalay Bose, Tuo Zhang, Rajat Hebbar, Anil Ramakrishna, *Rahul Gupta*, Mi Zhang, Salman Avestimehr, Shrikanth Narayanan, [https://arxiv.org/abs/2306.09486 FedMultimodal: A Benchmark For Multimodal Federated Learning], KDD
+- Tiantian Feng, Digbalay Bose, Tuo Zhang, Rajat Hebbar, Anil Ramakrishna, *Rahul Gupta*, Mi Zhang, Salman Avestimehr, Shrikanth Narayanan, [https://arxiv.org/abs/2306.09486 FedMultimodal: A Benchmark For Multimodal Federated Learning], /KDD/
 
-- Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2305.09941 “I’m fully who I am”: Towards centering transgender and non-binary voices to measure biases in open language generation], ACM FAccT 
+- Anaelia Ovalle, Palash Goyal, Jwala Dhamala, Zachary Jaggers, Kai-Wei Chang, Aram Galstyan, Richard Zemel, Rahul Gupta [https://arxiv.org/abs/2305.09941 “I’m fully who I am”: Towards centering transgender and non-binary voices to measure biases in open language generation], /ACM FAccT/ 
 
-- Ansel MacLaughlin, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav, *Rahul Gupta*, [https://www.amazon.science/publications/self-healing-through-error-detection-attribution-and-retraining, Self-healing through error detection, attribution, and retraining], ICASSP
+- Ansel MacLaughlin, Anna Rumshisky, Rinat Khaziev, Anil Ramakrishna, Yuval Merhav, *Rahul Gupta*, [https://www.amazon.science/publications/self-healing-through-error-detection-attribution-and-retraining, Self-healing through error detection, attribution, and retraining], /ICASSP/
 
-- Christophe Dupuy, Jimit Majmudar, Jixuan Wang, Tanya G Roosta, *Rahul Gupta*, Clement Chung, Jie Ding, Salman Avestimehr, [https://www.amazon.science/publications/quantifying-catastrophic-forgetting-in-continual-federated-learning Quantifying Catastrophic Forgetting in Continual Federated Learning], ICASSP
+- Christophe Dupuy, Jimit Majmudar, Jixuan Wang, Tanya G Roosta, *Rahul Gupta*, Clement Chung, Jie Ding, Salman Avestimehr, [https://www.amazon.science/publications/quantifying-catastrophic-forgetting-in-continual-federated-learning Quantifying Catastrophic Forgetting in Continual Federated Learning], /ICASSP/
 
-- *Rahul Gupta*, Lisa Bauer, Kai-Wei Chang, Jwala Dhamala, Aram Galstyan, Palash Goyal, Qian Hu, Avni Khatri, Rohit Parimi, Charith Peris, Apurv Verma, Richard Zemel, Prem Natarajan, [https://dl.acm.org/doi/abs/10.1145/3539597.3575785 Incorporating Fairness in Large Scale NLU Systems], ICDM Industry day 
+- *Rahul Gupta*, Lisa Bauer, Kai-Wei Chang, Jwala Dhamala, Aram Galstyan, Palash Goyal, Qian Hu, Avni Khatri, Rohit Parimi, Charith Peris, Apurv Verma, Richard Zemel, Prem Natarajan, [https://dl.acm.org/doi/abs/10.1145/3539597.3575785 Incorporating Fairness in Large Scale NLU Systems], /ICDM Industry day/ 
 
-- Charith Peris, Christophe Dupuy, Jimit Majmudar, R Parikh, S Smaili, R Zemel, *Rahul Gupta*, [https://dl.acm.org/doi/abs/10.1145/3539597.3575792 Privacy in the Time of Language Models], ICDM Industry day
+- Charith Peris, Christophe Dupuy, Jimit Majmudar, R Parikh, S Smaili, R Zemel, *Rahul Gupta*, [https://dl.acm.org/doi/abs/10.1145/3539597.3575792 Privacy in the Time of Language Models], /ICDM Industry day/
 
-- Jwala Dhamala, Varun Kumar, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2210.03826.pdf An analysis of the effects of decoding algorithms on fairness in open-ended language generation], IEEE Spoken Language Technology Workshop (SLT)
+- Jwala Dhamala, Varun Kumar, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2210.03826.pdf An analysis of the effects of decoding algorithms on fairness in open-ended language generation], /IEEE SLT/
 
-- Ninareh Mehrabi, Palash Goyal, Apurv Verma, Jwala Dhamala, Varun Kumar, Qian Hu, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Rahul Gupta [https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models Resolving ambiguities in text-to-image generative models], ACL
+- Ninareh Mehrabi, Palash Goyal, Apurv Verma, Jwala Dhamala, Varun Kumar, Qian Hu, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Rahul Gupta [https://www.amazon.science/publications/resolving-ambiguities-in-text-to-image-generative-models Resolving ambiguities in text-to-image generative models], /ACL/
  
-- Zefei Li, Anil Ramakrishna, Anna Rumshisky, Andy Rosenbaum, Saleh Soltan, Rahul Gupta [https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation Sampling bias in NLU models: Impact and mitigation], Interspeech
+- Zefei Li, Anil Ramakrishna, Anna Rumshisky, Andy Rosenbaum, Saleh Soltan, Rahul Gupta [https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation Sampling bias in NLU models: Impact and mitigation], /Interspeech/
  
 == 2022
 
-- Caleb Ziems, William Held, Jingfeng Yang, Jwala Dhamala, *Rahul Gupta*, Diyi Yang [https://arxiv.org/pdf/2212.08011.pdf Multi-VALUE: A framework for cross-dialectal English NLP], ACL
+- Caleb Ziems, William Held, Jingfeng Yang, Jwala Dhamala, *Rahul Gupta*, Diyi Yang [https://arxiv.org/pdf/2212.08011.pdf Multi-VALUE: A framework for cross-dialectal English NLP], /ACL/
 
-- Manoj Kumar, Anna Rumshisky, *Rahul Gupta*, [https://aclanthology.org/2022.aacl-main.1.pdf Chasing the Tail with Domain Generalization: A Case Study on Frequency-Enriched Datasets], Asia-Pacific chapter of ACL
+- Manoj Kumar, Anna Rumshisky, *Rahul Gupta*, [https://aclanthology.org/2022.aacl-main.1.pdf Chasing the Tail with Domain Generalization: A Case Study on Frequency-Enriched Datasets], /Asia-Pacific chapter of ACL/
 
-- Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, *Rahul Gupta*, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan, [https://arxiv.org/pdf/2208.01448.pdf AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model]
+- Saleh Soltan, Shankar Ananthakrishnan, Jack FitzGerald, *Rahul Gupta*, Wael Hamza, Haidar Khan, Charith Peris, Stephen Rawls, Andy Rosenbaum, Anna Rumshisky, Chandana Satya Prakash, Mukund Sridhar, Fabian Triefenbach, Apurv Verma, Gokhan Tur, Prem Natarajan, [https://arxiv.org/pdf/2208.01448.pdf AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model], /ArXiv preprint/
 
-- Manoj Kumar, Yuval Merhav, Haidar Khan, *Rahul Gupta*, Anna Rumshisky, Wael Hamza, [https://aclanthology.org/2022.naacl-industry.7.pdf Controlled Data Generation via Insertion Operations for NLU], NAACL Industry Track 
+- Manoj Kumar, Yuval Merhav, Haidar Khan, *Rahul Gupta*, Anna Rumshisky, Wael Hamza, [https://aclanthology.org/2022.naacl-industry.7.pdf Controlled Data Generation via Insertion Operations for NLU], /NAACL Industry Track/ 
 
-- Jimit Majmudar, Christophe Dupuy, Charith Peris, Sami Smaili, *Rahul Gupta*, Richard Zemel, [https://arxiv.org/pdf/2205.13621.pdf Differentially Private Decoding in Large Language Models], TrustNLP workshop @ ACL
+- Jimit Majmudar, Christophe Dupuy, Charith Peris, Sami Smaili, *Rahul Gupta*, Richard Zemel, [https://arxiv.org/pdf/2205.13621.pdf Differentially Private Decoding in Large Language Models], /TrustNLP workshop @ ACL/
 
-- Nikhita Vedula, *Rahul Gupta*, Alok Alok, Mukund Sridhar, Shankar Ananthakrishnan, [https://assets.amazon.science/90/0f/1e1d481d4ba8b41b48825f05d797/advin-automatically-discovering-novel-domains-and-intents-from-user-text-utterances.pdf Advin: Automatically Discovering Novel Domains and Intents from User Text Utterances], ICASSP 
+- Nikhita Vedula, *Rahul Gupta*, Alok Alok, Mukund Sridhar, Shankar Ananthakrishnan, [https://assets.amazon.science/90/0f/1e1d481d4ba8b41b48825f05d797/advin-automatically-discovering-novel-domains-and-intents-from-user-text-utterances.pdf Advin: Automatically Discovering Novel Domains and Intents from User Text Utterances], /ICASSP/
 
-- Christophe Dupuy, Tanya Roosta, Leo Long, Clement Chung, *Rahul Gupta*, Salman Avestimehr, [https://arxiv.org/pdf/2202.03925 Learnings from Federated Learning in the Real world], ICASSP
+- Christophe Dupuy, Tanya Roosta, Leo Long, Clement Chung, *Rahul Gupta*, Salman Avestimehr, [https://arxiv.org/pdf/2202.03925 Learnings from Federated Learning in the Real world], /ICASSP/
 
-- Christophe Dupuy, Radhika Arava, *Rahul Gupta*, Anna Rumshisky, [https://arxiv.org/pdf/2107.14586 An Efficient DP-SGD Mechanism for Large Scale NLU Models], ICASSP
+- Christophe Dupuy, Radhika Arava, *Rahul Gupta*, Anna Rumshisky, [https://arxiv.org/pdf/2107.14586 An Efficient DP-SGD Mechanism for Large Scale NLU Models], /ICASSP/
 
-- Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, *Rahul Gupta*, [https://arxiv.org/pdf/2205.03092 Federated Learning with Noisy User Feedback], NAACL
+- Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, *Rahul Gupta*, [https://arxiv.org/pdf/2205.03092 Federated Learning with Noisy User Feedback], /NAACL/
 
-- Peyman Passban, Tanya Roosta, *Rahul Gupta*, Aman Chadha, Clement Chung, [https://arxiv.org/pdf/2205.01557 Training Mixed-Domain Translation Models via Federated Learning], NAACL 
+- Peyman Passban, Tanya Roosta, *Rahul Gupta*, Aman Chadha, Clement Chung, [https://arxiv.org/pdf/2205.01557 Training Mixed-Domain Translation Models via Federated Learning], /NAACL/ 
 
-- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, *Rahul Gupta*, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], NAACL Findings 
+- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, *Rahul Gupta*, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], /NAACL Findings/ 
 
-- Rahil Parikh, Christophe Dupuy, *Rahul Gupta*, [https://arxiv.org/pdf/2203.13920 Canary Extraction in Natural Language Understanding Models], ACL
+- Rahil Parikh, Christophe Dupuy, *Rahul Gupta*, [https://arxiv.org/pdf/2203.13920 Canary Extraction in Natural Language Understanding Models], /ACL/
 
-- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, *Rahul Gupta*, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], ACL Findings
+- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, *Rahul Gupta*, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], /ACL Findings/
 
-- Satyapriya Krishna, *Rahul Gupta*, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang, [https://arxiv.org/pdf/2203.08670 Measuring Fairness of Text Classifiers via Prediction Sensitivity], ACL
+- Satyapriya Krishna, *Rahul Gupta*, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang, [https://arxiv.org/pdf/2203.08670 Measuring Fairness of Text Classifiers via Prediction Sensitivity], /ACL/
 
-- Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, Varun Kumar, Jwala Dhamala, Aram Galstyan, [https://arxiv.org/abs/2203.13928 On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations], ACL
+- Yang Trista Cao, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, Varun Kumar, Jwala Dhamala, Aram Galstyan, [https://arxiv.org/abs/2203.13928 On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations], /ACL/
 
-- Stefan Schroedl, Manoj Kumar, Kiana Hajebi, Morteza Ziyadi, Sriram Venkatapathy, Anil Ramakrishna, *Rahul Gupta*, Pradeep Natarajan [https://assets.amazon.science/8f/04/31abfecb47518e4e1e64f1f4913c/improving-large-scale-conversational-assistants-using-model-interpretation-based-training-sample-selection.pdf Improving large-scale conversational assistants using model interpretation based training sample selection], EMNLP Industry track 
+- Stefan Schroedl, Manoj Kumar, Kiana Hajebi, Morteza Ziyadi, Sriram Venkatapathy, Anil Ramakrishna, *Rahul Gupta*, Pradeep Natarajan [https://assets.amazon.science/8f/04/31abfecb47518e4e1e64f1f4913c/improving-large-scale-conversational-assistants-using-model-interpretation-based-training-sample-selection.pdf Improving large-scale conversational assistants using model interpretation based training sample selection], /EMNLP Industry track/ 
 
 == 2021
 
-- Justin Payan, Yuval Merhav, He Xie, Satyapriya Krishna, Anil Ramakrishna, Mukund Sridhar, *Rahul Gupta*, [https://arxiv.org/pdf/2110.14694 Towards Realistic Single-Task Continuous Learning Research for NER], EMNLP Findings 
+- Justin Payan, Yuval Merhav, He Xie, Satyapriya Krishna, Anil Ramakrishna, Mukund Sridhar, *Rahul Gupta*, [https://arxiv.org/pdf/2110.14694 Towards Realistic Single-Task Continuous Learning Research for NER], /EMNLP Findings/
 
-- Yada Pruksachatkun, Satyapriya Krishna, Jwala Dhamala, *Rahul Gupta*, Kai-Wei Chang, [https://arxiv.org/pdf/2106.10826 Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification], ACL Findings
+- Yada Pruksachatkun, Satyapriya Krishna, Jwala Dhamala, *Rahul Gupta*, Kai-Wei Chang, [https://arxiv.org/pdf/2106.10826 Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification], /ACL Findings/
 
-- Jwala Dhamala, Tony Sun, Varun Kumar, Satyapriya Krishna, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11718 BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation], ACM FAccT
+- Jwala Dhamala, Tony Sun, Varun Kumar, Satyapriya Krishna, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11718 BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation], /ACM FAccT/
 
-- Satyapriya Krishna, *Rahul Gupta*, Christophe Dupuy, [https://arxiv.org/pdf/2102.01502 ADePT: Auto-encoder based Differentially Private Text Transformation], EACL
+- Satyapriya Krishna, *Rahul Gupta*, Christophe Dupuy, [https://arxiv.org/pdf/2102.01502 ADePT: Auto-encoder based Differentially Private Text Transformation], /EACL/
 
-- Manoj Kumar, Varun Kumar, Hadrien Glaude, Cyprien de Lichy, Aman Alok, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11753 Protoda: Efficient Transfer Learning for Few-Shot Intent Classification], IEEE Spoken Language Technology Workshop
+- Manoj Kumar, Varun Kumar, Hadrien Glaude, Cyprien de Lichy, Aman Alok, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11753 Protoda: Efficient Transfer Learning for Few-Shot Intent Classification], /IEEE SLT/ 
 
-- Ansel MacLaughlin, Jwala Dhamala, Anoop Kumar, Sriram Venkatapathy, Ragav Venkatesan, *Rahul Gupta*, [https://arxiv.org/pdf/2010.04249 Evaluating the Effectiveness of Efficient Neural Architecture Search for Sentence-Pair Tasks], Insights from Negative Results in NLP  
+- Ansel MacLaughlin, Jwala Dhamala, Anoop Kumar, Sriram Venkatapathy, Ragav Venkatesan, *Rahul Gupta*, [https://arxiv.org/pdf/2010.04249 Evaluating the Effectiveness of Efficient Neural Architecture Search for Sentence-Pair Tasks], /Insights from Negative Results in NLP/  
 
 == 2020
 
-- Anil Ramakrishna, *Rahul Gupta* and Shrikanth Narayanan, [https://arxiv.org/abs/2005.03117 Joint Multi-Dimensional Model for Global and Time-Series Annotations], /IEEE Transaction of Affective Computing/.
+- Anil Ramakrishna, *Rahul Gupta* and Shrikanth Narayanan, [https://arxiv.org/abs/2005.03117 Joint Multi-Dimensional Model for Global and Time-Series Annotations], /IEEE Transaction of Affective Computing/
 
-- Saurabh Sahu, *Rahul Gupta*, and Carol Espy-Wilson, [https://arxiv.org/abs/1911.00030 Modeling Feature Representations for Affective Speech using Generative Adversarial Networks]. /IEEE Transaction of Affective Computing/. 
+- Saurabh Sahu, *Rahul Gupta*, and Carol Espy-Wilson, [https://arxiv.org/abs/1911.00030 Modeling Feature Representations for Affective Speech using Generative Adversarial Networks]. /IEEE Transaction of Affective Computing/
 
-- Akshit Tyagi, Varun Sharma, *Rahul Gupta*, Lynn Samson, Nan Zhuang, Zihang Wang, Bill Campbell, [https://arxiv.org/abs/1912.01728 Fast Intent Classification for Spoken Language Understanding], /ICASSP, 2020/.
+- Akshit Tyagi, Varun Sharma, *Rahul Gupta*, Lynn Samson, Nan Zhuang, Zihang Wang, Bill Campbell, [https://arxiv.org/abs/1912.01728 Fast Intent Classification for Spoken Language Understanding], /ICASSP/
 
-- Aman Alok, *Rahul Gupta*, Shankar Ananthakrishnan, [https://www.amazon.science/publications/design-considerations-for-hypothesis-rejection-modules-in-spoken-language-understanding-systems Design Considerations for Hypothesis Rejection Modules in Spoken-Language-Understanding Systems], /ICASSP, 2020/.
+- Aman Alok, *Rahul Gupta*, Shankar Ananthakrishnan, [https://www.amazon.science/publications/design-considerations-for-hypothesis-rejection-modules-in-spoken-language-understanding-systems Design Considerations for Hypothesis Rejection Modules in Spoken-Language-Understanding Systems], /ICASSP/
 
-- Aarsh Patel, *Rahul Gupta*, Mukund Sridhar, Satyapriya Krishna, Alok Aman, Peng Liu  [https://drive.google.com/open?id=1rnYtFCTT_MwjvjBJhi2l7JW_XCTY7am9 Towards Classification Parity Across Cohorts], /ICLR-IRL workshop, 2020/.
+- Aarsh Patel, *Rahul Gupta*, Mukund Sridhar, Satyapriya Krishna, Alok Aman, Peng Liu  [https://drive.google.com/open?id=1rnYtFCTT_MwjvjBJhi2l7JW_XCTY7am9 Towards Classification Parity Across Cohorts], /ICLR-IRL workshop/
 
 == 2019 
 
-- Archiman Dutta, *Rahul Gupta*, Subhadeep Chakraborty, Dhinesh Dhanasekaran, Deepak Kumar Nayak, Avik Sinha, [http://www.pat2pdf.org/pat2pdf/foo.pl?number=10,339,470 Techniques For Generating Machine Learning Training Data], /United States Patent/.
+- *Rahul Gupta*, Aman Alok, Shankar Ananthakrishnan, [https://arxiv.org/abs/1906.08858 One-vs-All Models for Asynchronous Training: An Empirical Analysis], /Interspeech/
 
-- *Rahul Gupta*, Aman Alok, Shankar Ananthakrishnan, [https://arxiv.org/abs/1906.08858 One-vs-All Models for Asynchronous Training: An Empirical Analysis], /Interspeech, 2019/. 
+- *Rahul Gupta*, [https://arxiv.org/abs/1902.06818, Data augmentation for low resource sentiment analysis using generative adversarial networks] . /ICASSP/
 
-- *Rahul Gupta*, [https://arxiv.org/abs/1902.06818, Data augmentation for low resource sentiment analysis using generative adversarial networks] . /ICASSP, 2019/. 
-
-- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [On evaluating CNN representations for low resource medical image classification] . /ICASSP, 2019/. 
+- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [On evaluating CNN representations for low resource medical image classification] . /ICASSP/
 
 == 2018 
 
-- Chengwei Su, *Rahul Gupta*, Shankar Ananthakrishnan  and Spyros Matsoukas, [https://arxiv.org/abs/1809.09605, A Re-ranker Scheme for Integrating Large Scale NLU Models]. /IEEE-SLT, 2018/. 
+- Chengwei Su, *Rahul Gupta*, Shankar Ananthakrishnan  and Spyros Matsoukas, [https://arxiv.org/abs/1809.09605, A Re-ranker Scheme for Integrating Large Scale NLU Models]. /IEEE-SLT/ 
 
-- Saurabh Sahu, *Rahul Gupta*, and Carol Espy-Wilson, [https://arxiv.org/abs/1806.06626 On Enhancing Speech Emotion Recognition using Generative Adversarial Networks]. /Interspeech, 2018/. 
+- Saurabh Sahu, *Rahul Gupta*, and Carol Espy-Wilson, [https://arxiv.org/abs/1806.06626 On Enhancing Speech Emotion Recognition using Generative Adversarial Networks]. /Interspeech/
 
-- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [https://assets.amazon.science/06/68/a6cac10a4ea680b1ba8d14e35a09/smoothing-model-predictions-using-adversarial-training-procedures-for-speech-based-emotion-recognition.pdf Smoothing Model Predictions using Adversarial Training Procedures for Speech Based Emotion Recognition]. /ICASSP, 2018/. 
+- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [https://assets.amazon.science/06/68/a6cac10a4ea680b1ba8d14e35a09/smoothing-model-predictions-using-adversarial-training-procedures-for-speech-based-emotion-recognition.pdf Smoothing Model Predictions using Adversarial Training Procedures for Speech Based Emotion Recognition]. /ICASSP/
 
-- *Rahul Gupta*, Saurabh Sahu, Carol Espy-Wilson and Shrikanth Narayanan, [https://arxiv.org/abs/1806.02863 Semi-supervised and Transfer learning approaches for low resource sentiment classification]. /ICASSP, 2018/. 
+- *Rahul Gupta*, Saurabh Sahu, Carol Espy-Wilson and Shrikanth Narayanan, [https://arxiv.org/abs/1806.02863 Semi-supervised and Transfer learning approaches for low resource sentiment classification]. /ICASSP/
 
 == 2017 
 
-- Taruna Agrawal, *Rahul Gupta* , Saurabh Sahu and Carol Espy-Wilson [myPapers/scl-umd-medico.pdf SCL-UMD at the Medico Task-MediaEval 2017: Transfer learning based Classification of Medical Images], /Medico challenge-MediaEval, 2017/.
+- Taruna Agrawal, *Rahul Gupta* , Saurabh Sahu and Carol Espy-Wilson [myPapers/scl-umd-medico.pdf SCL-UMD at the Medico Task-MediaEval 2017: Transfer learning based Classification of Medical Images], /Medico challenge-MediaEval/
 
-- Taruna Agrawal, *Rahul Gupta* and, Shrikanth Narayanan, [myPapers/twitter.pdf Multimodal Detection of Fake Social Media Use Through a Fusion of Classification and Pairwise Ranking Systems], /EUSIPCO, 2017/. \<span style=\"color: OrangeRed\"\>*Presented by the first author at WiML@NIPS-2017\<\/span\>*. 
+- Taruna Agrawal, *Rahul Gupta* and, Shrikanth Narayanan, [myPapers/twitter.pdf Multimodal Detection of Fake Social Media Use Through a Fusion of Classification and Pairwise Ranking Systems], /EUSIPCO/. \<span style=\"color: OrangeRed\"\>*Presented by the first author at WiML@NIPS-2017\<\/span\>*
 
-- Qinyi Luo, *Rahul Gupta* and, Shrikanth Narayanan, [myPapers/qinyi_modeling_IS17.pdf Transfer Learning between Concepts for Human Behavior Modeling: An Application to Sincerity and Deception Prediction], /Interspeech, 2017/.
+- Qinyi Luo, *Rahul Gupta* and, Shrikanth Narayanan, [myPapers/qinyi_modeling_IS17.pdf Transfer Learning between Concepts for Human Behavior Modeling: An Application to Sincerity and Deception Prediction], /Interspeech/
 
-- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [myPapers/sahu_gan_IS17.pdf Adversarial Auto-encoders for Speech Based Emotion Recognition]. /Interspeech, 2017/. 
+- Saurabh Sahu, *Rahul Gupta*, Ganesh Sivaraman and Carol Espy-Wilson, [myPapers/sahu_gan_IS17.pdf Adversarial Auto-encoders for Speech Based Emotion Recognition]. /Interspeech/
 
-- *Rahul Gupta*, Saurabh Sahu, Carol Espy-Wilson and Shrikanth Narayanan, [myPapers/rahul_incorporation_IS17.pdf An Affect Prediction Approach through Depression Severity Parameter Incorporation in Neural Networks], /Interspeech, 2017/. 
+- *Rahul Gupta*, Saurabh Sahu, Carol Espy-Wilson and Shrikanth Narayanan, [myPapers/rahul_incorporation_IS17.pdf An Affect Prediction Approach through Depression Severity Parameter Incorporation in Neural Networks], /Interspeech/
 
-- *Rahul Gupta*, and Shrikanth Narayanan, [https://arxiv.org/pdf/1612.04413.pdf Inferring object rankings based on noisy pairwise comparisons from multiple annotators], /arXiv preprint arXiv:1612.04413, 2017/. 
+- *Rahul Gupta*, and Shrikanth Narayanan, [https://arxiv.org/pdf/1612.04413.pdf Inferring object rankings based on noisy pairwise comparisons from multiple annotators], /ArXiv preprint/
 
-- Sabyasachee Baruah, *Rahul Gupta*, and Shrikanth Narayanan, [myPapers/movies.pdf A Knowledge Transfer and Boosting Approach to the Prediction of Affect in Movies], /ICASSP, 2017/ 
+- Sabyasachee Baruah, *Rahul Gupta*, and Shrikanth Narayanan, [myPapers/movies.pdf A Knowledge Transfer and Boosting Approach to the Prediction of Affect in Movies], /ICASSP/ 
 
 == 2016
 
-- *Rahul Gupta*, Kartik Audhkhasi, Zach Jacokes, Agata Rozga, and Shrikanth Narayanan, [myPapers/smile_paper_final.pdf Modeling multiple time series annotations based on ground truth inference and distortion], /IEEE Transactions on Affective Computing, 2016/. 
+- *Rahul Gupta*, Kartik Audhkhasi, Zach Jacokes, Agata Rozga, and Shrikanth Narayanan, [myPapers/smile_paper_final.pdf Modeling multiple time series annotations based on ground truth inference and distortion], /IEEE Transactions on Affective Computing/
 
-- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL-Engagement-2016.pdf Analysis of engagement behavior in children during dyadic interactions using prosodic cues], /Computer Speech and Language, 2016/. 
+- *Rahul Gupta*, Daniel Bone, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL-Engagement-2016.pdf Analysis of engagement behavior in children during dyadic interactions using prosodic cues], /Computer Speech and Language/
 
-- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL2015-paralinguistics.pdf Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language, 2016/. 
+- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, and Shrikanth Narayanan, [myPapers/Gupta-CSL2015-paralinguistics.pdf Detecting paralinguistic events in audio stream using context in features and probabilistic decisions], /Computer Speech and Language/
 
-- Krishna Somandepalli, *Rahul Gupta*, Md Nasir, Brandon Booth, Sungbok Lee and Shrikanth Narayanan, [myPapers/2016_AVEC_camera_ready.pdf Online Affect Tracking with Multimodal Kalman Filters], /AVEC workshop, 2016/ 
+- Krishna Somandepalli, *Rahul Gupta*, Md Nasir, Brandon Booth, Sungbok Lee and Shrikanth Narayanan, [myPapers/2016_AVEC_camera_ready.pdf Online Affect Tracking with Multimodal Kalman Filters], /AVEC workshop/ 
 
-- *Rahul Gupta* and Shrikanth Narayanan, [myPapers/gupta_predicting_IS160187.PDF Predicting Affective Dimensions based on Self Assessed Depression Severity], /Proc. Interspeech, 2016/.
+- *Rahul Gupta* and Shrikanth Narayanan, [myPapers/gupta_predicting_IS160187.PDF Predicting Affective Dimensions based on Self Assessed Depression Severity], /Interspeech/
 
-- *Rahul Gupta*, Nishant Nath, Taruna Agrawal, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan,[myPapers/gupta2016_laughter-valenc.pdf Laughter Valence Prediction in Motivational Interviewing based on Lexical and Acoustic Cues], /Proc. Interspeech, 2016/.
+- *Rahul Gupta*, Nishant Nath, Taruna Agrawal, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan,[myPapers/gupta2016_laughter-valenc.pdf Laughter Valence Prediction in Motivational Interviewing based on Lexical and Acoustic Cues], /Interspeech/
 
-- Anil Ramakrishna, *Rahul Gupta*, Ruth Grossman and Shrikanth Narayanan, [myPapers/ramakrishna_IS160270.PDF An Expectation Maximization approach to Joint Modeling of Multidimensional labels derived from Multiple Annotators], /Proc. Interspeech, 2016/.
+- Anil Ramakrishna, *Rahul Gupta*, Ruth Grossman and Shrikanth Narayanan, [myPapers/ramakrishna_IS160270.PDF An Expectation Maximization approach to Joint Modeling of Multidimensional labels derived from Multiple Annotators], /Interspeech/
 
-- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, [myPapers/YounChaspariSteinCermakNarayanan_DeepNeuralNetworksEDAStructure_EMBC16.pdf Capturing the Structure of Electrodermal Activity with Deep Neural Networks], /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper), 2016/. 
+- Agnes Youn, Theodora Chaspari, *Rahul Gupta*, Leah I. Stein Duker, Sharon A. Cermak, Shrikanth Narayanan, [myPapers/YounChaspariSteinCermakNarayanan_DeepNeuralNetworksEDAStructure_EMBC16.pdf Capturing the Structure of Electrodermal Activity with Deep Neural Networks], /International Conference of the IEEE Engineering in Medicine and Biology Society (Undergraduate student posters paper)/
 
-- Manoj Kumar, *Rahul Gupta*, Daniel Bone, Nikolaos Malandrakis, Somer Bishop and Shrikanth Narayanan, [myPapers/Manoj_kumar_IS160563.PDF Objective Language Feature Analysis in Children with Neurodevelopmental Disorders during Autism Assessment], /Proc. Interspeech, 2016/.
+- Manoj Kumar, *Rahul Gupta*, Daniel Bone, Nikolaos Malandrakis, Somer Bishop and Shrikanth Narayanan, [myPapers/Manoj_kumar_IS160563.PDF Objective Language Feature Analysis in Children with Neurodevelopmental Disorders during Autism Assessment], /Interspeech/
 
-- Daniel Bone, Somer Bishop, *Rahul Gupta*, Sungbok Lee and Shrikanth Narayanan, [myPapers/Bone-etal_AcousticProsody-Turntaking_ASD-DD_Interspeech2016.pdf Acoustic-Prosodic and Turn-Taking Features in Interactions with Children with Neurodevelopmental Disorders], /Proc. Interspeech, 2016/.
+- Daniel Bone, Somer Bishop, *Rahul Gupta*, Sungbok Lee and Shrikanth Narayanan, [myPapers/Bone-etal_AcousticProsody-Turntaking_ASD-DD_Interspeech2016.pdf Acoustic-Prosodic and Turn-Taking Features in Interactions with Children with Neurodevelopmental Disorders], /Interspeech/
 
-- Brandon Booth, *Rahul Gupta*, Pavlos Papadopoulos, Ruchir Travadi and Shrikanth Narayanan, [myPapers/booth_IS161537.PDF Automatic Estimation of Perceived Sincerity From Spoken Language], /Proc. Interspeech, 2016/.
+- Brandon Booth, *Rahul Gupta*, Pavlos Papadopoulos, Ruchir Travadi and Shrikanth Narayanan, [myPapers/booth_IS161537.PDF Automatic Estimation of Perceived Sincerity From Spoken Language], /Interspeech/
 
-- *Rahul Gupta*, Theodora Chaspari, Jangwon Kim, Naveen Kumar, Daniel Bone and Shrikanth Narayanan, [myPapers/Gupta_2016_ICASSP_pathology_survey.pdf Pathological speech processing: state-of-the-art, current challenges, and future directions], /Proc. ICASSP, 2016/. 
+- *Rahul Gupta*, Theodora Chaspari, Jangwon Kim, Naveen Kumar, Daniel Bone and Shrikanth Narayanan, [myPapers/Gupta_2016_ICASSP_pathology_survey.pdf Pathological speech processing: state-of-the-art, current challenges, and future directions], /ICASSP/
 
 == 2015
 
-- *Rahul Gupta*, Theodora Chaspari, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, [myPapers/GuptaChaspariGeorgiouAtkinsNarayana_LaughterMotivationalInterviewPsychotherapy_Interspeech15.pdf Analysis and modeling of the role of laughter in motivational interviewing based psychotherapy conversations], /Proc. Interspeech, 2015/. 
+- *Rahul Gupta*, Theodora Chaspari, Panayiotis Georgiou, David Atkins and Shrikanth Narayanan, [myPapers/GuptaChaspariGeorgiouAtkinsNarayana_LaughterMotivationalInterviewPsychotherapy_Interspeech15.pdf Analysis and modeling of the role of laughter in motivational interviewing based psychotherapy conversations], /Interspeech/
 
-- Jangwon Kim, Md Nasir, *Rahul Gupta*, Maarten Van Segbroeck, Daniel Bone, Matthew Black, Zisis Iason Skordilis, Zhaojun Yang, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/parkinsons_kim_interspeech.pdf Automatic estimation of Parkinson's disease severity from diverse speech tasks], /Proc. Interspeech, 2015/. 
+- Jangwon Kim, Md Nasir, *Rahul Gupta*, Maarten Van Segbroeck, Daniel Bone, Matthew Black, Zisis Iason Skordilis, Zhaojun Yang, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/parkinsons_kim_interspeech.pdf Automatic estimation of Parkinson's disease severity from diverse speech tasks], /Interspeech/
 
-- Matthew Black, Daniel Bone, Zisis Iason Skordilis, *Rahul Gupta*, Wei Xia, Pavlos Papadopoulos, Sandeep Nallan Chakravarthula, Bo Xiao, Maarten Van Segbroeck, Jangwon Kim, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/Black_Bone_NativenessChallenge_KnowledgeInspiredDataDriven_Interspeech_2015.pdf Automated Evaluation of Non-Native English Pronunciation Quality: Combining Knowledge and Data-Driven Features at Multiple Time Scales], /Proc. Interspeech, 2015/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2015\<\/span\>*.
+- Matthew Black, Daniel Bone, Zisis Iason Skordilis, *Rahul Gupta*, Wei Xia, Pavlos Papadopoulos, Sandeep Nallan Chakravarthula, Bo Xiao, Maarten Van Segbroeck, Jangwon Kim, Panayiotis Georgiou, Shrikanth Narayanan, [myPapers/Black_Bone_NativenessChallenge_KnowledgeInspiredDataDriven_Interspeech_2015.pdf Automated Evaluation of Non-Native English Pronunciation Quality: Combining Knowledge and Data-Driven Features at Multiple Time Scales], /Interspeech/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2015\<\/span\>*
 
-- *Rahul Gupta*, Naveen Kumar, Shrikanth Narayanan, [myPapers/music_eusipco.pdf Affect Prediction in Music using Boosted Ensemble of Filters], /Proc. EUSIPCO, 2015/.
+- *Rahul Gupta*, Naveen Kumar, Shrikanth Narayanan, [myPapers/music_eusipco.pdf Affect Prediction in Music using Boosted Ensemble of Filters], /EUSIPCO/
 
-- Sandeep Nallan Chakravarthula, *Rahul Gupta*, Brian Baucom, Panayiotis Georgiou, [myPapers/couples_therapy_icassp15.pdf A Language-Based Generative Model Framework For Behavioral Analysis Of Couples' Therapy], /Proc. ICASSP, 2015/.
+- Sandeep Nallan Chakravarthula, *Rahul Gupta*, Brian Baucom, Panayiotis Georgiou, [myPapers/couples_therapy_icassp15.pdf A Language-Based Generative Model Framework For Behavioral Analysis Of Couples' Therapy], /ICASSP/
 
-- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [myPapers/Gupta-MOE-ICASSP2015.pdf A Mixture Of Experts Approach Towards Intelligibility Classification Of Pathological Speech], /Proc. ICASSP, 2015/.
+- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [myPapers/Gupta-MOE-ICASSP2015.pdf A Mixture Of Experts Approach Towards Intelligibility Classification Of Pathological Speech], /ICASSP/
 
-- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [myPapers/mediaeva15_diverse_selection.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop, 2015/.
+- Taruna Agrawal, *Rahul Gupta*, Shrikanth Narayanan, [myPapers/mediaeva15_diverse_selection.pdf Retrieving Social Images using Relevance Filtering and Diverse Selection], /Retrieving diverse social images task, MediaEval Workshop/
 
-- *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2080.pdf Predicting Affect in Music Using Regression Methods on Low Level Features], /Emotion in Music Challenge, MediaEval Workshop, 2015/.
+- *Rahul Gupta*, Shrikanth Narayanan, [http://wwwu.edu.uni-klu.ac.at/miriegle/mediaeval/Paper%2080.pdf Predicting Affect in Music Using Regression Methods on Low Level Features], /Emotion in Music Challenge, MediaEval Workshop/
 
 == 2014
 
-- *Rahul Gupta*,  Sankaranarayanan Ananthakrishnan, Zhaojun Yang, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/695 Variable Span Disfluency Detection in ASR Transcripts], /Proc. Interspeech, 2014/.
+- *Rahul Gupta*,  Sankaranarayanan Ananthakrishnan, Zhaojun Yang, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/695 Variable Span Disfluency Detection in ASR Transcripts], /Interspeech/
 
-- *Rahul Gupta*, Panayiotis Georgiou, David Atkins, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCQQFjAB&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F691&ei=78FnVIvXFKKxygO1rYHQBQ&usg=AFQjCNEbarvMUB_M6W5oLa8qWvW8AmkaJg&bvm=bv.79142246,d.bGQ Predicting Client's Inclination Towards Target Behavior Change in Motivational Interviewing and Investigating the Role of Laughter], /Proc. Interspeech, 2014/.
+- *Rahul Gupta*, Panayiotis Georgiou, David Atkins, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCQQFjAB&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F691&ei=78FnVIvXFKKxygO1rYHQBQ&usg=AFQjCNEbarvMUB_M6W5oLa8qWvW8AmkaJg&bvm=bv.79142246,d.bGQ Predicting Client's Inclination Towards Target Behavior Change in Motivational Interviewing and Investigating the Role of Laughter], /Interspeech/
 
-- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCoQFjAB&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F668&ei=KcJnVNSSLsXYywPMh4DwAw&usg=AFQjCNH_TgUd7OMzeeaQWz6pnGY2bLedFA&bvm=bv.79142246,d.bGQ Training ensemble of diverse classifiers on feature subsets], /Proc. ICASSP, 2014/.
+- *Rahul Gupta*, Kartik Audhkhasi, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCoQFjAB&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F668&ei=KcJnVNSSLsXYywPMh4DwAw&usg=AFQjCNH_TgUd7OMzeeaQWz6pnGY2bLedFA&bvm=bv.79142246,d.bGQ Training ensemble of diverse classifiers on feature subsets], /ICASSP/
 
-- *Rahul Gupta*, Nikolaos Malandrakis, Bo Xiao, Tanaya Guha, Maarten Van Segbroeck, Matthew P Black, Alexandros Potamianos, Shrikanth S Narayanan, [http://dl.acm.org/citation.cfm?id=2661810 Multimodal prediction of affective dimensions and depression in human-computer interactions], /Audio Visual Emotion Challenge and Workshop, 2014/.
+- *Rahul Gupta*, Nikolaos Malandrakis, Bo Xiao, Tanaya Guha, Maarten Van Segbroeck, Matthew P Black, Alexandros Potamianos, Shrikanth S Narayanan, [http://dl.acm.org/citation.cfm?id=2661810 Multimodal prediction of affective dimensions and depression in human-computer interactions], /Audio Visual Emotion Challenge and Workshop/
 
-- Naveen Kumar, *Rahul Gupta*, Tanaya Guha, Colin Vaz, Maarten VanSegbroeck, Jangwon Kim, Shrikanth Narayanan, [http://ceur-ws.org/Vol-1263/mediaeval2014_submission_24.pdf Affective Feature Design and Predicting Continuous Affective Dimensions from Music], /Emotion in Music Challenge, MediaEval Workshop, 2014/.
+- Naveen Kumar, *Rahul Gupta*, Tanaya Guha, Colin Vaz, Maarten VanSegbroeck, Jangwon Kim, Shrikanth Narayanan, [http://ceur-ws.org/Vol-1263/mediaeval2014_submission_24.pdf Affective Feature Design and Predicting Continuous Affective Dimensions from Music], /Emotion in Music Challenge, MediaEval Workshop/
 
 == 2013
 
-- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Fsail.usc.edu%2F~audhkhas%2Fdocs%2Fgupta_nvv_challenge_is13.pdf&ei=gsJnVLeCJqX4ywPcl4KIDw&usg=AFQjCNGA4JV6-kH24eodJ7H3Df3OV5-YBQ&bvm=bv.79142246,d.bGQ Paralinguistic event detection from speech using probabilistic time-series smoothing and masking], /Proc. Interspeech, 2013/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2013 \<\/span\> [http://viterbi.usc.edu/news/news/2013/a-four-peat.htm \<span style=\"color: OrangeRed\"\> (USC Viterbi News) \<\/span\>]*.
+- *Rahul Gupta*, Kartik Audhkhasi, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=http%3A%2F%2Fsail.usc.edu%2F~audhkhas%2Fdocs%2Fgupta_nvv_challenge_is13.pdf&ei=gsJnVLeCJqX4ywPcl4KIDw&usg=AFQjCNGA4JV6-kH24eodJ7H3Df3OV5-YBQ&bvm=bv.79142246,d.bGQ Paralinguistic event detection from speech using probabilistic time-series smoothing and masking], /Interspeech/. \<span style=\"color: OrangeRed\"\>*Winner of Interspeech Computational Paralinguistics Challenge, 2013 \<\/span\> [http://viterbi.usc.edu/news/news/2013/a-four-peat.htm \<span style=\"color: OrangeRed\"\> (USC Viterbi News) \<\/span\>]*
 
-- *Rahul Gupta*, Chi-Chun Lee, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCYQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F662&ei=VMJnVLHlBqvcywOmgYFA&usg=AFQjCNE6RCH-vTbcxjex-gbWXzpuQ5qF-g&bvm=bv.79142246,d.bGQ Assesment of a child's engagement behavior using sequence model based features], /Workshop on Affective Social Speech Signals, 2013/.
+- *Rahul Gupta*, Chi-Chun Lee, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCYQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F662&ei=VMJnVLHlBqvcywOmgYFA&usg=AFQjCNE6RCH-vTbcxjex-gbWXzpuQ5qF-g&bvm=bv.79142246,d.bGQ Assesment of a child's engagement behavior using sequence model based features], /Workshop on Affective Social Speech Signals/
 
 == 2012
 
-- *Rahul Gupta*, Chi-Chun Lee, Daniel Bone, Agata Rozga, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCsQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F555&ei=s8JnVILPLMPiywOT9YHQDg&usg=AFQjCNGCNxmBWfe5wTGBbE3rzFSXPPsJyw&bvm=bv.79142246,d.bGQ Acoustical analysis of engagement behavior in children], /Third Workshop on Child, Computer and Interaction, 2012/.
+- *Rahul Gupta*, Chi-Chun Lee, Daniel Bone, Agata Rozga, Sungbok Lee, Shrikanth Narayanan, [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCsQFjAA&url=http%3A%2F%2Fsail.usc.edu%2Faigaion2%2Findex.php%2Fattachments%2Fsingle%2F555&ei=s8JnVILPLMPiywOT9YHQDg&usg=AFQjCNGCNxmBWfe5wTGBbE3rzFSXPPsJyw&bvm=bv.79142246,d.bGQ Acoustical analysis of engagement behavior in children], /Third Workshop on Child, Computer and Interaction/
 
-- *Rahul Gupta*, Chi-Chun Lee, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/534 Classification of emotional content of sighs in dyadic human interactions], /Proc. ICASSP, 2012/.
+- *Rahul Gupta*, Chi-Chun Lee, Shrikanth Narayanan, [http://sail.usc.edu/aigaion2/index.php/attachments/single/534 Classification of emotional content of sighs in dyadic human interactions], /ICASSP/
