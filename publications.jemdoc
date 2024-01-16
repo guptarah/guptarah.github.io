@@ -6,7 +6,7 @@
 
 - Qian Hu, Palash Goyal, Rahul Gupta [Faithful Model Evaluation for Model-Based Metrics], EMNLP 
 
-- Anil Ramakrishna, *Rahul Gupta*, Jens Lehmann, Morteza Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], Findings of EMNLP 
+- Anil Ramakrishna, *Rahul Gupta*, Jens Lehmann, Morteza Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], EMNLP Findings 
 
 - Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, *Rahul Gupta*, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
 
@@ -56,11 +56,11 @@
 
 - Peyman Passban, Tanya Roosta, *Rahul Gupta*, Aman Chadha, Clement Chung, [https://arxiv.org/pdf/2205.01557 Training Mixed-Domain Translation Models via Federated Learning], NAACL 
 
-- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, *Rahul Gupta*, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], NAACL findings 
+- Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, *Rahul Gupta*, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr, [https://arxiv.org/pdf/2104.08815 Fednlp: Benchmarking federated learning methods for natural language processing tasks], NAACL Findings 
 
 - Rahil Parikh, Christophe Dupuy, *Rahul Gupta*, [https://arxiv.org/pdf/2203.13920 Canary Extraction in Natural Language Understanding Models], ACL
 
-- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, *Rahul Gupta*, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], ACL findings
+- Umang Gupta, Jwala Dhamala, Varun Kumar, Apurv Verma, Yada Pruksachatkun, Satyapriya Krishna, *Rahul Gupta*, Kai-Wei Chang, Greg Ver Steeg, Aram Galstyan, [https://arxiv.org/pdf/2203.12574 Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal], ACL Findings
 
 - Satyapriya Krishna, *Rahul Gupta*, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang, [https://arxiv.org/pdf/2203.08670 Measuring Fairness of Text Classifiers via Prediction Sensitivity], ACL
 
@@ -69,6 +69,18 @@
 - Stefan Schroedl, Manoj Kumar, Kiana Hajebi, Morteza Ziyadi, Sriram Venkatapathy, Anil Ramakrishna, *Rahul Gupta*, Pradeep Natarajan [https://assets.amazon.science/8f/04/31abfecb47518e4e1e64f1f4913c/improving-large-scale-conversational-assistants-using-model-interpretation-based-training-sample-selection.pdf Improving large-scale conversational assistants using model interpretation based training sample selection], EMNLP Industry track 
 
 == 2021
+
+- Justin Payan, Yuval Merhav, He Xie, Satyapriya Krishna, Anil Ramakrishna, Mukund Sridhar, *Rahul Gupta*, [https://arxiv.org/pdf/2110.14694 Towards Realistic Single-Task Continuous Learning Research for NER], EMNLP Findings 
+
+- Yada Pruksachatkun, Satyapriya Krishna, Jwala Dhamala, *Rahul Gupta*, Kai-Wei Chang, [https://arxiv.org/pdf/2106.10826 Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification], ACL Findings
+
+- Jwala Dhamala, Tony Sun, Varun Kumar, Satyapriya Krishna, Yada Pruksachatkun, Kai-Wei Chang, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11718 BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation], ACM FAccT
+
+- Satyapriya Krishna, *Rahul Gupta*, Christophe Dupuy, [https://arxiv.org/pdf/2102.01502 ADePT: Auto-encoder based Differentially Private Text Transformation], EACL
+
+- Manoj Kumar, Varun Kumar, Hadrien Glaude, Cyprien de Lichy, Aman Alok, *Rahul Gupta*, [https://arxiv.org/pdf/2101.11753 Protoda: Efficient Transfer Learning for Few-Shot Intent Classification], IEEE Spoken Language Technology Workshop
+
+- Ansel MacLaughlin, Jwala Dhamala, Anoop Kumar, Sriram Venkatapathy, Ragav Venkatesan, *Rahul Gupta*, [https://arxiv.org/pdf/2010.04249 Evaluating the Effectiveness of Efficient Neural Architecture Search for Sentence-Pair Tasks], Insights from Negative Results in NLP  
 
 == 2020
 
