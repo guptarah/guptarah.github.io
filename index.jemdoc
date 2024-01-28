@@ -14,7 +14,7 @@
 - B. Tech. in Electrical Engineering, [http://www.iitkgp.ac.in/ Indian Institute of Technology, Kharagapur] 
 
 I work with a team of scientists focusing on various research topics in Responsible AI including fairness, safety and security.
-Examples of my research work include building metrics applicable to RAI [1, 2], mitigation and overview articles.
+Examples of my research work include building metrics applicable to RAI (see [https://github.com/amazon-science/bold 1],[https://github.com/amazon-science/tango 2]), mitigation (see [https://arxiv.org/pdf/2203.12574.pdf here]) and analysis articles (see [https://arxiv.org/pdf/2210.03826.pdf here]).
 My team also organizes workshops and tutorials on RAI topics [1, 2].  
 Please feel free to browse my publications for a list of my recent research focus. 
 
@@ -22,6 +22,6 @@ Please feel free to browse my publications for a list of my recent research focu
 
 == News
 
-- We are organizing the fourth edition of TrustNLP at NAACL and Trustworthy Speech processing workshop at ICASSP.
+- We are organizing the fourth edition of [https://trustnlpworkshop.github.io/ TrustNLP] at NAACL and [https://trustworthyspeechprocessing.github.io/ Trustworthy Speech processing workshop] at ICASSP.
 
 - I was part of a panel at the Amazon hosted the NSF Fairness in AI PI meeting. Checkout the LinkedIn post [https://www.linkedin.com/posts/amazonscience_fairnessinai-responsibleai-activity-7150967213238231040-RZMT/?utm_source=share&utm_medium=member_desktop here]. 
