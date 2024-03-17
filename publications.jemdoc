@@ -1,16 +1,27 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
+== 2024
+
+- Tiantian Feng, Anil Ramakrishna, Jimit Majmudar, Charith Peris, Jixuan Wang, Clement Chung, Richard Zemel, Morteza Ziyadi, *Rahul Gupta*, [https://assets.amazon.science/06/7c/e859c08048a09954b07b49e623d3/partial-federated-learning-unlocking-non-biometric-text-information-sharing-for-federated-learning.pdf Partial federated learning: Unlocking non-biometric text information sharing for federated learning], /ICASSP 2024 Workshop on Trustworthy Speech Processing/
+ 
+- Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, *Rahul Gupta*, [https://arxiv.org/abs/2312.11779 Are you talking to \[xem\] or \[x,em\]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], /NAACL Findings/ 
+
+- Roy Siegelmann, Ninareh Mehrabi, Palash Goyal, Prasoon Goyal, Lisa Bauer, Jwala Dhamala, Aram Galstyan, *Rahul Gupta*, Reza Ghanadan, [MICo: Preventative Detoxification of Large Language Models through Inhibition Control], /NAACL Findings/ 
+
+- Zhewei Sun, Qian Hu, *Rahul Gupta*, Richard Zemel, Yang Xu, [Toward Informal Language Processing: Knowledge of Slang in Large Language Models], /NAACL/
+
+- Junyi Li, Charith Peris, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [The steerability of large language models toward data-driven personas], /NAACL/
+
 == 2023
-- Anaelia Ovalle, Ninareh Mehrabi, Palash Goyal, Jwala Dhamala, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Yuval Pinter, *Rahul Gupta*, [https://arxiv.org/abs/2312.11779 Are you talking to \[xem\] or \[x,em\]? On Tokenization and Addressing Misgendering in LLMs with Pronoun Tokenization Parity], 
 
 - Qian Hu, Palash Goyal, Rahul Gupta [Faithful Model Evaluation for Model-Based Metrics], /EMNLP/ 
 
 - Anil Ramakrishna, *Rahul Gupta*, Jens Lehmann, Morteza Ziyadi, [INVITE: a Testbed of Automatically Generated Invalid Questions to Evaluate Large Language Models for Hallucinations], /EMNLP Findings/ 
 
-- Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, *Rahul Gupta*, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], Socially Responsible Language Modelling Research @ Neurips. 
+- Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Jwala Dhamala, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, *Rahul Gupta*, [https://arxiv.org/abs/2311.09473 JAB: Joint Adversarial Prompting and Belief Augmentation], /Socially Responsible Language Modelling Research @ Neurips/. 
 
-- Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], 
+- Junyi Li, Ninareh Mehrabi, Charith Peris, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [https://arxiv.org/abs/2311.04978 On the steerability of large language models toward data-driven personas], /CIKM workshop on Personalized Generative AI/.  
 
 - Jiao Sun, Yufei Tian, Wangchunshu Zhou, Nan Xu, Qian Hu, Rahul Gupta, John Frederick Wieting, Nanyun Peng, Xuezhe Ma, [https://arxiv.org/abs/2310.14542 Evaluating Large Language Models on Controlled Generation Tasks], /EMNLP/
 
