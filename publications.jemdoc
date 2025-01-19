@@ -1,11 +1,17 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-For most uptodate list, please check my [https://scholar.google.com/citations?user=1CFrm2YAAAAJ&hl=en Google Scholar profile]. I will attempt to maintain an organized list below with direct links to PDF files for my publications.
+For most uptodate list, please check my [https://scholar.google.com/citations?user=1CFrm2YAAAAJ&hl=en Google Scholar profile]. I will also attempt to maintain an organized list below with direct links to PDF files for my publications.
 
 == 2025
 
+- Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta, [ MUNCH: A Multitask Unlearning Benchmark for LLMs], /AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation/ 
+
+- Elan Sopher Markowitz, Anil Ramakrishna, Ninareh Mehrabi, Charith Peris, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, [ K-Edit: Language Model Editing with Contextual Knowledge Awareness], /AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation/
+
 == 2024
+
+- Anil Ramakrishna, Jimit Majmudar, Rahul Gupta, Devamanyu Hazarika, [https://www.amazon.science/publications/llm-pieval-a-benchmark-for-indirect-prompt-injection-attacks-in-large-language-models LLM-PIEval: A benchmark for indirect prompt injection attacks in large language models], /AdvML Frontiers @NeurIPS2024/
 
 - Ninareh Mehrabi, Palash Goyal, Christophe Dupuy, Qian Hu, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta, [https://arxiv.org/pdf/2308.04265 FLIRT: Feedback Loop In-context Red Teaming], /EMNLP/
 
@@ -17,9 +23,9 @@ For most uptodate list, please check my [https://scholar.google.com/citations?us
 
 - Elan Sopher Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan [https://arxiv.org/pdf/2407.21358 Tree-of-Traversals: A Zero-shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs], /ACL/
 
-- Lisa Bauer, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan and Rahul Gupta, [BELIEVE: Belief-Enhanced Instruction Generation and Augmentation for Zero-Shot Bias Mitigation], /TrustNLP@NAACL/ 
+- Lisa Bauer, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan and Rahul Gupta, [https://aclanthology.org/2024.trustnlp-1.20.pdf BELIEVE: Belief-Enhanced Instruction Generation and Augmentation for Zero-Shot Bias Mitigation], /TrustNLP@NAACL/ 
 
-- Fan Yang, Shalini Ghosh, Emre Barut, Kechen Qin, Prashan Wanigasekara, Chengwei Su, Weitong Ruan, *Rahul Gupta*, [Masking Latent Gender Knowledge for Debiasing Image Captioning], /TrustNLP@NAACL/ 
+- Fan Yang, Shalini Ghosh, Emre Barut, Kechen Qin, Prashan Wanigasekara, Chengwei Su, Weitong Ruan, *Rahul Gupta*, [https://aclanthology.org/2024.trustnlp-1.19.pdf Masking Latent Gender Knowledge for Debiasing Image Captioning], /TrustNLP@NAACL/ 
 
 - Tiantian Feng, Anil Ramakrishna, Jimit Majmudar, Charith Peris, Jixuan Wang, Clement Chung, Richard Zemel, Morteza Ziyadi, *Rahul Gupta*, [https://assets.amazon.science/06/7c/e859c08048a09954b07b49e623d3/partial-federated-learning-unlocking-non-biometric-text-information-sharing-for-federated-learning.pdf Partial federated learning: Unlocking non-biometric text information sharing for federated learning], /ICASSP 2024 Workshop on Trustworthy Speech Processing/
  
@@ -29,7 +35,7 @@ For most uptodate list, please check my [https://scholar.google.com/citations?us
 
 - Zhewei Sun, Qian Hu, *Rahul Gupta*, Richard Zemel, Yang Xu, [https://arxiv.org/pdf/2404.02323 Toward Informal Language Processing: Knowledge of Slang in Large Language Models], /NAACL/
 
-- Junyi Li, Charith Peris, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [The steerability of large language models toward data-driven personas], /NAACL/
+- Junyi Li, Charith Peris, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan, Richard Zemel, *Rahul Gupta*, [https://arxiv.org/pdf/2311.04978 The steerability of large language models toward data-driven personas], /NAACL/
 
 == 2023
 
