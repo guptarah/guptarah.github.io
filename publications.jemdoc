@@ -1,9 +1,21 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
+For most uptodate list, please check my [https://scholar.google.com/citations?user=1CFrm2YAAAAJ&hl=en Google Scholar profile]. I will attempt to maintain an organized list below with direct links to PDF files for my publications.
+
+== 2025
+
 == 2024
 
-- Elan Sopher Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan [Tree-of-Traversals: A Zero-shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs], /ACL/
+- Ninareh Mehrabi, Palash Goyal, Christophe Dupuy, Qian Hu, Shalini Ghosh, Richard Zemel, Kai-Wei Chang, Aram Galstyan, Rahul Gupta, [https://arxiv.org/pdf/2308.04265 FLIRT: Feedback Loop In-context Red Teaming], /EMNLP/
+
+- Ziyi Liu, Soumya Sanyal, Isabelle Lee, Yongkang Du, *Rahul Gupta*, Yang Liu, Jieyu Zhao [https://aclanthology.org/2024.findings-emnlp.213.pdf Self-contradictory reasoning evaluation and detection], /EMNLP findings/
+
+- Tao Meng, Ninareh Mehrabi, Palash Goyal, Anil Ramakrishna, Aram Galstyan, Richard Zemel, Kai-Wei Chang, *Rahul Gupta*, Charith Peris, [https://arxiv.org/pdf/2410.05559 Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification], /EMNLP/
+
+- Fei Wang, Ninareh Mehrabi, Palash Goyal, Rahul Gupta, Kai-Wei Chang, Aram Galstyan, [https://arxiv.org/pdf/2410.05269 Data advisor: Dynamic data curation for safety alignment of large language models], /EMNLP/
+
+- Elan Sopher Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, *Rahul Gupta*, Kai-Wei Chang, Aram Galstyan [https://arxiv.org/pdf/2407.21358 Tree-of-Traversals: A Zero-shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs], /ACL/
 
 - Lisa Bauer, Ninareh Mehrabi, Palash Goyal, Kai-Wei Chang, Aram Galstyan and Rahul Gupta, [BELIEVE: Belief-Enhanced Instruction Generation and Augmentation for Zero-Shot Bias Mitigation], /TrustNLP@NAACL/ 
 
