@@ -1,74 +1,203 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahul Gupta - Senior Applied Science Manager, Amazon AGI</title>
+    <style>
+        /* Modern Reset & Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: 250px 1fr;
+            gap: 30px;
+        }
+
+        /* Sidebar Styles */
+        .sidebar {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 20px;
+        }
+
+        .menu-category {
+            font-size: 0.9em;
+            color: #2c3e50;
+            margin: 15px 0 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .menu-item {
+            margin: 8px 0;
+        }
+
+        .menu-item a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s;
+            display: inline-block;
+        }
+
+        .menu-item a:hover,
+        .menu-item a.current {
+            color: #2980b9;
+            font-weight: 500;
+        }
+
+        /* Main Content Styles */
+        .main-content {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+
+        .profile-header {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        .profile-img {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #3498db;
+        }
+
+        .position {
+            font-size: 1.2em;
+            color: #2980b9;
+            margin-bottom: 5px;
+        }
+
+        .affiliation {
+            color: #7f8c8d;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #2980b9;
+        }
+
+        .quote {
+            font-style: italic;
+            margin: 25px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+            border-radius: 4px;
+        }
+
+        @media  (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            
+            .sidebar {
+                position: static;
+            }
+            
+            .profile-header {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+    <!-- Google Analytics (preserved) -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-9916119-5");
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
 </head>
 <body>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-    var pageTracker = _gat._getTracker("UA-9916119-5");
-    pageTracker._trackPageview();
-} catch(err) {}</script>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Links</div>
-<div class="menu-item"><a href="index.html" class="current">Home</a></div>
-<div class="menu-item"><a href="https://www.linkedin.com/in/rahul-gupta-16139818/">LinkedIn</a></div>
-<div class="menu-item"><a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ">Google&nbsp;Scholar</a></div>
-<div class="menu-item"><a href="https://twitter.com/rahul1987iit">Twitter/X</a></div>
-<div class="menu-category">Research</div>
-<div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="patents.html">Patents</a></div>
-<div class="menu-category">Services</div>
-<div class="menu-item"><a href="events.html">Events</a></div>
-<div class="menu-item"><a href="watchlist.html">Watchlist</a></div>
-<div class="menu-item"><a href="speaking.html">Speaking</a></div>
-</td>
-<td id="layout-content">
-<h1>Rahul Gupta </h1>
-<table class="imgtable"><tr><td>
-<img src="lab_image2.JPG" alt="331px" width="262px" />&nbsp;</td>
-<td align="left"><p><b>Senior Applied Science Manager</b>, Amazon AGI <br /> </p>
-<p><b></b>Previous Affiliations:<b></b></p>
-<ul>
-<li><p>PhD in Electrical Engineering, <a href="http://sail.usc.edu/">Signal Analysis and Interpretation Lab</a>  </p>
-</li>
-</ul>
-<ul>
-<li><p>B. Tech. in Electrical Engineering, <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagapur</a> </p>
-</li>
-</ul>
-<p>I work with a team of scientists focusing on various research topics in Responsible AI including fairness, safety and security.
-Examples of my research work include building metrics applicable to RAI (see <a href="https://github.com/amazon-science/bold">here</a> and <a href="https://github.com/amazon-science/tango">here</a>), mitigations (see <a href="https://arxiv.org/pdf/2203.12574.pdf">here</a>) and analysis articles (see <a href="https://arxiv.org/pdf/2210.03826.pdf">here</a>).
-My team also organizes workshops and tutorials on RAI topics.  
-Please feel free to browse my publications for a list of my recent research focus. </p>
-<p>A necessary but not sufficient condition for an AGI from my perspective: An AI is AGI if we can no longer design Captchas that can fool AI. </p>
-</td></tr></table>
-<h2>News</h2>
-<ul>
-<li><p>We are organizing the fifth edition of <a href="https://trustnlpworkshop.github.io/">TrustNLP</a> at NAACL. </p>
-</li>
-</ul>
-<ul>
-<li><p>We are organizing an unlearing challenge at <a href="https://llmunlearningsemeval2025.github.io/">SemEval</a>. </p>
-</li>
-</ul>
-<div id="footer">
-<div id="footer-text">
-Page generated 2025-05-03 20:11:26 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</td>
-</tr>
-</table>
+    <div class="container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="menu-item"><a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+            <div class="menu-item"><a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></div>
+            <div class="menu-item"><a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a></div>
+            
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <h1>Rahul Gupta</h1>
+            
+            <div class="profile-header">
+                <img src="lab_image2.JPG" alt="Rahul Gupta" class="profile-img" />
+                <div>
+                    <div class="position">Senior Applied Science Manager @ Amazon Nova</div>
+                    <div class="affiliation">PhD from <a href="http://sail.usc.edu/" target="_blank" rel="noopener noreferrer">USC</a>, B.Tech. from <a href="http://www.iitkgp.ac.in/" target="_blank" rel="noopener noreferrer">IIT Kharagpur</a></div>
+                </div>
+            </div>
+
+            <p>
+                I work with a team of scientists focusing on Responsible AI. Examples of my research work include building metrics applicable to RAI 
+                (see <a href="https://github.com/amazon-science/bold" target="_blank" rel="noopener noreferrer">here</a> and <a href="https://github.com/amazon-science/tango" target="_blank" rel="noopener noreferrer">here</a>), 
+                mitigations (see <a href="https://arxiv.org/pdf/2203.12574.pdf" target="_blank" rel="noopener noreferrer">here</a>), 
+                and analysis articles (see <a href="https://arxiv.org/pdf/2210.03826.pdf" target="_blank" rel="noopener noreferrer">here</a>). 
+                I organize the <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP</a> series of workshops, 
+                and in the past organized the <a href="https://trustworthyspeechprocessing.github.io/" target="_blank" rel="noopener noreferrer">Trustworthy Speech Processing workshop</a> 
+                at ICASSP and the <a href="https://llmunlearningsemeval2025.github.io/" target="_blank" rel="noopener noreferrer">Unlearning Challenge</a> at SemEval. 
+                Back when I was a graduate student, our team won the Interspeech Paralinguistics Challenge <a href="http://www.compare.openaudio.eu/winners/" target="_blank" rel="noopener noreferrer">twice</a> (in 2013 and 2015).
+            </p>
+
+            <p>
+                My latest publications can be accessed through my <a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar Profile</a> and I often post latest research updates on <a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a> and <a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+            </p>
+        </main>
+    </div>
 </body>
 </html>
