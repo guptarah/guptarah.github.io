@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rahul Gupta - Senior Applied Science Manager, Amazon AGI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
     <style>
         /* Modern Reset & Base Styles */
         * {
@@ -76,7 +78,32 @@
             margin-bottom: 20px;
             border-bottom: 2px solid #3498db;
             padding-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
         }
+
+        .social-icons {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .social-icons a {
+            font-size: 1.3rem;
+            color: #7f8c8d;
+            transition: color 0.2s;
+            text-decoration: none;
+        }
+
+        .social-icons a:hover {
+            text-decoration: none;
+        }
+
+        .social-icons a.linkedin:hover { color: #0077b5; }
+        .social-icons a.scholar:hover  { color: #4285f4; }
+        .social-icons a.twitter:hover  { color: #000; }
 
         .profile-header {
             display: flex;
@@ -174,7 +201,14 @@
 
         <!-- Main Content -->
         <main class="main-content">
-            <h1>Rahul Gupta</h1>
+            <h1>
+                Rahul Gupta
+                <span class="social-icons">
+                    <a href="https://www.linkedin.com/in/rahul-gupta-16139818/" class="linkedin" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" class="scholar" target="_blank" rel="noopener noreferrer" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                    <a href="https://twitter.com/rahul1987iit" class="twitter" target="_blank" rel="noopener noreferrer" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+                </span>
+            </h1>
             
             <div class="profile-header">
                 <img src="lab_image2.JPG" alt="Rahul Gupta" class="profile-img" />
