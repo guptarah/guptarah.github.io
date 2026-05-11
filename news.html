@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News & Accolades - Rahul Gupta</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: 250px 1fr;
+            gap: 30px;
+        }
+
+        .sidebar {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 20px;
+        }
+
+        .menu-category {
+            font-size: 0.9em;
+            color: #2c3e50;
+            margin: 15px 0 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .menu-item {
+            margin: 8px 0;
+        }
+
+        .menu-item a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s;
+            display: inline-block;
+        }
+
+        .menu-item a:hover,
+        .menu-item a.current {
+            color: #2980b9;
+            font-weight: 500;
+        }
+
+        .main-content {
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin: 30px 0 12px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #eee;
+        }
+
+        ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: #2980b9;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="menu-category">Links</div>
+            <div class="menu-item"><a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+            <div class="menu-item"><a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></div>
+            <div class="menu-item"><a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a></div>
+
+            <div class="menu-category">Upcoming events</div>
+            <div class="menu-item"><a href="https://impact.indiaai.gov.in/" target="_blank" rel="noopener noreferrer">@ India AI Summit</a></div>
+            <div class="menu-item"><a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP @ ACL'26</a></div>
+
+            <div class="menu-category">Past News</div>
+            <div class="menu-item"><a href="news.html#2026">2026</a></div>
+            <div class="menu-item"><a href="news.html#2025">2025</a></div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <h1>News &amp; Accolades</h1>
+
+            <h2 id="2026">2026</h2>
+            <ul>
+                <li>Co-organizing <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP @ ACL'26</a>, continuing the workshop series on trustworthy NLP.</li>
+                <li>Speaking at the <a href="https://impact.indiaai.gov.in/" target="_blank" rel="noopener noreferrer">India AI Summit</a>.</li>
+            </ul>
+
+            <h2 id="2025">2025</h2>
+            <ul>
+                <li>Winner of the Agent X competition (2025).</li>
+                <li>Presented Amazon's work on Frontier Safety in AI at IIT Bombay and IIIT Delhi as part of the India AI Summit.</li>
+                <li>Amazon signed the "Frontier AI Commitments" at the India AI Summit; my team is responsible for building the technical foundation for Amazon's AI offerings under these commitments.</li>
+                <li>Co-organized the <a href="https://llmunlearningsemeval2025.github.io/" target="_blank" rel="noopener noreferrer">SemEval Unlearning Challenge</a> at ACL.</li>
+                <li>My team leads the Nova AI Challenge, supporting 10 universities annually on safety research.</li>
+                <li>Represented Amazon at the Frontier Model Forum and Partnership on AI.</li>
+            </ul>
+
+            <h2 id="2023">2023</h2>
+            <ul>
+                <li>Invited panelist at AI For Open Society @ KDD'23.</li>
+            </ul>
+
+            <h2 id="2022">2022</h2>
+            <ul>
+                <li>Invited speaker at FL4NLP @ ACL'22.</li>
+            </ul>
+
+            <h2 id="2016">2016</h2>
+            <ul>
+                <li>Best PhD Thesis Pitch Award at USC (2016).</li>
+                <li>IEEE Signal Processing Society travel award to ICASSP 2016.</li>
+            </ul>
+
+            <h2 id="2015">2015</h2>
+            <ul>
+                <li>Winner of the Interspeech Paralinguistics Challenge (2015) — second consecutive win.</li>
+                <li>Phi Beta Kappa Alumni in Southern California Scholarship (2015).</li>
+            </ul>
+
+            <h2 id="2013">2013</h2>
+            <ul>
+                <li>Winner of the Interspeech Paralinguistics Challenge (2013).</li>
+            </ul>
+
+            <h2 id="2010">2010–2014</h2>
+            <ul>
+                <li>Provost Fellowship at USC (2010–2014).</li>
+            </ul>
+
+            <h2 id="2009">2009</h2>
+            <ul>
+                <li>Info-USA Exchange Scholarship (2009).</li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>
