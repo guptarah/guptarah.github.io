@@ -22,47 +22,9 @@
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 900px;
             margin: 0 auto;
             padding: 20px;
-            display: grid;
-            grid-template-columns: 250px 1fr;
-            gap: 30px;
-        }
-
-        /* Sidebar Styles */
-        .sidebar {
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
-            position: sticky;
-            top: 20px;
-        }
-
-        .menu-category {
-            font-size: 0.9em;
-            color: #2c3e50;
-            margin: 15px 0 10px;
-            padding-bottom: 5px;
-            border-bottom: 1px solid #eee;
-        }
-
-        .menu-item {
-            margin: 8px 0;
-        }
-
-        .menu-item a {
-            color: #3498db;
-            text-decoration: none;
-            transition: color 0.3s;
-            display: inline-block;
-        }
-
-        .menu-item a:hover,
-        .menu-item a.current {
-            color: #2980b9;
-            font-weight: 500;
         }
 
         /* Main Content Styles */
@@ -161,15 +123,7 @@
             border-radius: 4px;
         }
 
-        @media  (max-width: 768px) {
-            .container {
-                grid-template-columns: 1fr;
-            }
-            
-            .sidebar {
-                position: static;
-            }
-            
+        @media (max-width: 768px) {
             .profile-header {
                 flex-direction: column;
                 text-align: center;
@@ -190,16 +144,6 @@
 </head>
 <body>
     <div class="container">
-        <!-- Sidebar Navigation -->
-        <aside class="sidebar">
-         	<div class="menu-category">Links</div>
-            <div class="menu-item"><a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
-            <div class="menu-item"><a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></div>
-            <div class="menu-item"><a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a></div>
-           
-        </aside>
-
-        <!-- Main Content -->
         <main class="main-content">
             <h1>
                 Rahul Gupta
@@ -235,8 +179,9 @@
 
             <h2 style="color:#2c3e50; margin-top:30px; margin-bottom:12px; padding-bottom:6px; border-bottom:1px solid #eee;">Recent News</h2>
             <ul>
-                <li>Co-organizing <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP @ ACL'26</a>.</li>
-                <li>Speaking at the <a href="https://impact.indiaai.gov.in/" target="_blank" rel="noopener noreferrer">India AI Summit</a>.</li>
+                <li>Co-organizing <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP @ ACL'26</a>. We will also be presenting several papers at ACL: <a href="https://arxiv.org/abs/2511.14017" target="_blank" rel="noopener noreferrer">[1]</a> <a href="https://arxiv.org/abs/2605.04305" target="_blank" rel="noopener noreferrer">[2]</a> <a href="https://arxiv.org/abs/2604.18789" target="_blank" rel="noopener noreferrer">[3]</a>.</li>
+                <li>Collaborated on three papers presented at ICLR: <a href="https://arxiv.org/abs/2510.03999" target="_blank" rel="noopener noreferrer">[1]</a> <a href="https://arxiv.org/abs/2510.03969" target="_blank" rel="noopener noreferrer">[2]</a> <a href="https://arxiv.org/abs/2510.21910" target="_blank" rel="noopener noreferrer">[3]</a>.</li>
+                <li>Presenting two papers at ICML: <a href="https://arxiv.org/abs/2602.08995" target="_blank" rel="noopener noreferrer">[1]</a> and <a href="https://icml.cc/virtual/2026/poster/60901" target="_blank" rel="noopener noreferrer">[2]</a> <em>(spotlight)</em>.</li>
                 <li>Winner of the Agent X competition (2025).</li>
                 <li>Amazon signed the "Frontier AI Commitments" at the India AI Summit; my team leads the technical foundation for Amazon's AI safety offerings under these commitments.</li>
             </ul>
