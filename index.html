@@ -249,22 +249,67 @@
         }
 
         @media (max-width: 768px) {
-            .timeline {
-                padding: 100px 10px;
-                overflow-x: scroll;
-            }
-            .timeline-track {
-                min-width: 600px;
-            }
-            .timeline-content {
-                width: 110px;
-            }
-        }
-
-        @media (max-width: 768px) {
             .profile-header {
                 flex-direction: column;
                 text-align: center;
+            }
+
+            .timeline {
+                padding: 20px 0 20px 28px;
+                overflow-x: visible;
+            }
+
+            .timeline-track {
+                flex-direction: column;
+                align-items: flex-start;
+                height: auto;
+                width: 3px;
+                min-width: 3px;
+                background: linear-gradient(to bottom, #3498db, #2c3e50);
+                padding: 10px 0;
+            }
+
+            .timeline-item {
+                flex: none;
+                justify-content: flex-start;
+                margin-bottom: 28px;
+                margin-left: -7px;
+            }
+
+            .timeline-item:last-child {
+                margin-bottom: 0;
+            }
+
+            .timeline-dot {
+                width: 14px;
+                height: 14px;
+                flex-shrink: 0;
+            }
+
+            .timeline-content,
+            .timeline-content.above,
+            .timeline-content.below {
+                position: relative;
+                top: auto;
+                bottom: auto;
+                left: auto;
+                transform: none;
+                width: auto;
+                max-width: calc(100vw - 90px);
+                margin-left: 14px;
+            }
+
+            .timeline-stem {
+                display: none;
+            }
+
+            .timeline-date {
+                top: auto;
+                bottom: auto;
+                left: auto;
+                right: calc(100% + 8px);
+                top: 50%;
+                transform: translateY(-50%);
             }
         }
     </style>
