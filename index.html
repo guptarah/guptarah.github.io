@@ -67,6 +67,7 @@
         .social-icons a.linkedin { color: #0077b5; }
         .social-icons a.scholar  { color: #4285f4; }
         .social-icons a.twitter  { color: #000; }
+        .social-icons a.resume   { color: #2c3e50; }
 
         .profile-header {
             display: flex;
@@ -124,128 +125,66 @@
             border-radius: 4px;
         }
 
-        /* Horizontal Timeline Styles */
-        .timeline {
-            position: relative;
-            margin: 40px 0 30px;
-            padding: 120px 0;
-            overflow-x: auto;
+        .section-title {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 12px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #eee;
         }
 
-        .timeline-track {
-            position: relative;
-            display: flex;
-            align-items: center;
-            min-width: 100%;
-            height: 6px;
-            background: linear-gradient(to right, #3498db, #2c3e50);
-            border-radius: 3px;
+        .highlights-list {
+            border-left: 3px solid #3498db;
+            margin: 18px 0 0 4px;
         }
 
-        .timeline-item {
+        .highlight-item {
+            display: grid;
+            grid-template-columns: 110px 1fr;
+            gap: 18px;
             position: relative;
-            flex: 1;
-            display: flex;
-            justify-content: center;
+            padding: 0 0 18px 22px;
         }
 
-        .timeline-dot {
-            width: 18px;
-            height: 18px;
+        .highlight-item:last-child {
+            padding-bottom: 0;
+        }
+
+        .highlight-item::before {
+            content: "";
+            position: absolute;
+            left: -8px;
+            top: 6px;
+            width: 13px;
+            height: 13px;
             border-radius: 50%;
-            background: #3498db;
-            border: 3px solid #fff;
-            box-shadow: 0 0 0 3px #3498db;
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
-            position: relative;
-            z-index: 2;
+            background: #fff;
+            border: 3px solid #3498db;
         }
 
-        .timeline-dot:hover {
-            transform: scale(1.2);
+        .highlight-item.upcoming::before {
+            border-color: #8e44ad;
         }
 
-        .timeline-item.upcoming .timeline-dot {
-            background: #8e44ad;
-            box-shadow: 0 0 0 3px #8e44ad;
-        }
-
-        .timeline-date {
-            position: absolute;
-            left: 50%;
-            top: calc(100% + 8px);
-            transform: translateX(-50%);
-            font-size: 0.68em;
-            font-weight: 600;
+        .highlight-date {
             color: #2c3e50;
-            pointer-events: none;
-            white-space: nowrap;
-            opacity: 0;
-            transition: opacity 0.2s;
-            background: #f0f4f8;
-            padding: 2px 6px;
-            border-radius: 3px;
-        }
-
-        .timeline-dot:hover .timeline-date {
-            opacity: 1;
-        }
-
-        .timeline-content {
-            position: absolute;
-            width: 140px;
-            text-align: left;
-        }
-
-        .timeline-content.above {
-            bottom: calc(100% + 18px);
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        .timeline-content.below {
-            top: calc(100% + 18px);
-            left: 50%;
-            transform: translateX(-50%);
-        }
-
-        .timeline-content-title {
-            font-size: 0.78em;
+            font-size: 0.86em;
             font-weight: 700;
-            color: #2c3e50;
-            margin-bottom: 4px;
-            line-height: 1.3;
-        }
-
-        .timeline-content-desc {
-            font-size: 0.72em;
-            color: #555;
             line-height: 1.4;
+            white-space: nowrap;
         }
 
-        .timeline-content-desc a {
-            font-size: inherit;
+        .highlight-title {
+            color: #2c3e50;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 3px;
         }
 
-        .timeline-stem {
-            position: absolute;
-            left: 50%;
-            width: 2px;
-            background: #cbd5e1;
-            transform: translateX(-50%);
-        }
-
-        .timeline-content.above + .timeline-stem,
-        .timeline-item .timeline-stem.above {
-            bottom: calc(100% + 3px);
-            height: 15px;
-        }
-
-        .timeline-content.below + .timeline-stem,
-        .timeline-item .timeline-stem.below {
-            top: calc(100% + 3px);
-            height: 15px;
+        .highlight-desc {
+            color: #555;
+            font-size: 0.94em;
+            line-height: 1.5;
         }
 
         @media (max-width: 768px) {
@@ -254,62 +193,14 @@
                 text-align: center;
             }
 
-            .timeline {
-                padding: 20px 0 20px 28px;
-                overflow-x: visible;
+            .highlight-item {
+                grid-template-columns: 1fr;
+                gap: 3px;
+                padding-left: 18px;
             }
 
-            .timeline-track {
-                flex-direction: column;
-                align-items: flex-start;
-                height: auto;
-                width: 3px;
-                min-width: 3px;
-                background: linear-gradient(to bottom, #3498db, #2c3e50);
-                padding: 10px 0;
-            }
-
-            .timeline-item {
-                flex: none;
-                justify-content: flex-start;
-                margin-bottom: 28px;
-                margin-left: -7px;
-            }
-
-            .timeline-item:last-child {
-                margin-bottom: 0;
-            }
-
-            .timeline-dot {
-                width: 14px;
-                height: 14px;
-                flex-shrink: 0;
-            }
-
-            .timeline-content,
-            .timeline-content.above,
-            .timeline-content.below {
-                position: relative;
-                top: auto;
-                bottom: auto;
-                left: auto;
-                transform: none;
-                width: auto;
-                max-width: calc(100vw - 90px);
-                margin-left: 14px;
-            }
-
-            .timeline-stem {
-                display: none;
-            }
-
-            .timeline-date {
-                top: auto;
-                bottom: auto;
-                left: auto;
-                right: calc(100% + 8px);
-                top: 50%;
-                transform: translateY(-50%);
+            .highlight-date {
+                white-space: normal;
             }
         }
     </style>
@@ -334,11 +225,12 @@
                     <a href="https://www.linkedin.com/in/rahul-gupta-16139818/" class="linkedin" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     <a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" class="scholar" target="_blank" rel="noopener noreferrer" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                     <a href="https://twitter.com/rahul1987iit" class="twitter" target="_blank" rel="noopener noreferrer" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="resume/rahul_resume.pdf" class="resume" target="_blank" rel="noopener noreferrer" title="Resume"><i class="fa-solid fa-file-lines"></i></a>
                 </span>
             </h1>
             
             <div class="profile-header">
-                <img src="lab_image2.JPG" alt="Rahul Gupta" class="profile-img" />
+                <img src="images/rahul-profile.jpg" alt="Rahul Gupta" class="profile-img" />
                 <div>
                     <div class="position">Senior Applied Science Manager @ Amazon Nova</div>
                     <div class="affiliation">PhD from <a href="http://sail.usc.edu/" target="_blank" rel="noopener noreferrer">USC</a>, B.Tech. from <a href="http://www.iitkgp.ac.in/" target="_blank" rel="noopener noreferrer">IIT Kharagpur</a></div>
@@ -346,73 +238,56 @@
             </div>
 
             <p>
-                My research focuses on Responsible AI for large language models, spanning evaluation benchmarks
-                (see <a href="https://github.com/amazon-science/bold" target="_blank" rel="noopener noreferrer">BOLD</a> and
-                <a href="https://github.com/amazon-science/tango" target="_blank" rel="noopener noreferrer">Tango</a> datasets),
-                bias analysis (see <a href="https://arxiv.org/abs/2203.13928" target="_blank" rel="noopener noreferrer">our work on fairness evaluation metrics</a>),
-                and mitigations (see <a href="https://arxiv.org/pdf/2410.05559" target="_blank" rel="noopener noreferrer">attribute-controlled fine-tuning for LLMs</a>).
-                I lead the <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP</a> workshop series at ACL,
-                and have previously organized the <a href="https://trustworthyspeechprocessing.github.io/" target="_blank" rel="noopener noreferrer">Trustworthy Speech Processing workshop</a>
-                at ICASSP and the <a href="https://llmunlearningsemeval2025.github.io/" target="_blank" rel="noopener noreferrer">Unlearning Challenge</a> at SemEval.
-                As a graduate student, our team won the Interspeech Paralinguistics Challenge <a href="http://www.compare.openaudio.eu/winners/" target="_blank" rel="noopener noreferrer">twice</a> (2013 and 2015).
+                I am a senior leader focused on Responsible AI for frontier foundation models. At Amazon, my work spans safety, evaluation, red-teaming, fairness, privacy, and mitigation capabilities for Amazon Nova and related AGI initiatives.
             </p>
 
             <p style="margin-top: 20px;">
-                My latest publications can be accessed through my <a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar Profile</a> and I often post latest research updates on <a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a> and <a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+                My work combines executive-scale technical leadership with a deep research record. During my tenure at Amazon, I have led teams as large as 50+, driven third-party safety evaluations and LMArena performance, and organized university AI safety challenges. I also take pride in staying close to hands-on science, including first-author work on <a href="https://arxiv.org/abs/2607.12200" target="_blank" rel="noopener noreferrer">CBRN uplift evaluation for frontier language models</a> and <a href="https://dl.acm.org/doi/abs/10.1145/3539597.3575785" target="_blank" rel="noopener noreferrer">fairness in large-scale NLU systems</a>.
             </p>
 
-            <h2 style="color:#2c3e50; margin-top:30px; margin-bottom:12px; padding-bottom:6px; border-bottom:1px solid #eee;">Recent Events</h2>
-            <div class="timeline">
-                <div class="timeline-track">
-                    <div class="timeline-item">
-                        <div class="timeline-dot">
-                            <span class="timeline-date">Apr '26</span>
-                        </div>
-                        <div class="timeline-content above">
-                            <div class="timeline-content-title">India AI Summit</div>
-                            <div class="timeline-content-desc">Amazon signed <a href="https://impact.indiaai.gov.in/" target="_blank" rel="noopener noreferrer">"Frontier AI Commitments"</a>. Published <a href="https://arxiv.org/abs/2601.19134" target="_blank" rel="noopener noreferrer">Nova 2 Lite safety report</a>.</div>
-                        </div>
-                        <span class="timeline-stem above"></span>
+            <p style="margin-top: 20px;">
+                I publish at venues including NeurIPS, ICLR, ACL, EMNLP, FAccT, and ICASSP, and help convene the field through <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP</a>, <a href="https://nlp4social.github.io/NSG-2026/" target="_blank" rel="noopener noreferrer">IJCAI-ECAI workshops</a>, and invited talks on trustworthy AI.
+            </p>
+
+            <p style="margin-top: 20px;">
+                Full publication details are available on my <a href="https://scholar.google.com/citations?hl=en&user=gSTLsFcAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and I share recent research updates on <a href="https://twitter.com/rahul1987iit" target="_blank" rel="noopener noreferrer">X</a> and <a href="https://www.linkedin.com/in/rahul-gupta-16139818/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+            </p>
+
+            <h2 class="section-title">Recent Highlights</h2>
+            <div class="highlights-list">
+                <div class="highlight-item">
+                    <div class="highlight-date">Jul 2-7, 2026</div>
+                    <div>
+                        <div class="highlight-title">ACL &amp; TrustNLP</div>
+                        <div class="highlight-desc">Co-organizing <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP</a>. Presenting <a href="https://arxiv.org/abs/2511.14017" target="_blank" rel="noopener noreferrer">LLM Unlearning</a>, <a href="https://arxiv.org/abs/2605.04305" target="_blank" rel="noopener noreferrer">SWAN</a>, <a href="https://arxiv.org/abs/2604.18789" target="_blank" rel="noopener noreferrer">ARES</a>, <a href="https://web.cs.ucla.edu/~kwchang/bibliography/osebe2026autosuit/" target="_blank" rel="noopener noreferrer">AutoSUIT Bench</a>.</div>
                     </div>
-                    <div class="timeline-item">
-                        <div class="timeline-dot">
-                            <span class="timeline-date">Jul 2–7 '26</span>
-                        </div>
-                        <div class="timeline-content below">
-                            <div class="timeline-content-title">ACL &amp; TrustNLP</div>
-                            <div class="timeline-content-desc">Co-organizing <a href="https://trustnlpworkshop.github.io/" target="_blank" rel="noopener noreferrer">TrustNLP</a>. Presenting <a href="https://arxiv.org/abs/2511.14017" target="_blank" rel="noopener noreferrer">LLM Unlearning</a>, <a href="https://arxiv.org/abs/2605.04305" target="_blank" rel="noopener noreferrer">SWAN</a>, <a href="https://arxiv.org/abs/2604.18789" target="_blank" rel="noopener noreferrer">ARES</a>, <a href="https://web.cs.ucla.edu/~kwchang/bibliography/osebe2026autosuit/" target="_blank" rel="noopener noreferrer">AutoSUIT Bench</a>.</div>
-                        </div>
-                        <span class="timeline-stem below"></span>
+                </div>
+                <div class="highlight-item upcoming">
+                    <div class="highlight-date">Jul 6-11, 2026</div>
+                    <div>
+                        <div class="highlight-title">ICML</div>
+                        <div class="highlight-desc">Two papers: <a href="https://arxiv.org/abs/2602.08995" target="_blank" rel="noopener noreferrer">Misaligned Agents</a> and <a href="https://icml.cc/virtual/2026/poster/60901" target="_blank" rel="noopener noreferrer">Prompt Injection</a> (spotlight).</div>
                     </div>
-                    <div class="timeline-item upcoming">
-                        <div class="timeline-dot">
-                            <span class="timeline-date">Jul 6–11 '26</span>
-                        </div>
-                        <div class="timeline-content above">
-                            <div class="timeline-content-title">ICML</div>
-                            <div class="timeline-content-desc">Two papers: <a href="https://arxiv.org/abs/2602.08995" target="_blank" rel="noopener noreferrer">Misaligned Agents</a> and <a href="https://icml.cc/virtual/2026/poster/60901" target="_blank" rel="noopener noreferrer">Prompt Injection</a> (spotlight).</div>
-                        </div>
-                        <span class="timeline-stem above"></span>
+                </div>
+                <div class="highlight-item">
+                    <div class="highlight-date">Aug 2026</div>
+                    <div>
+                        <div class="highlight-title">MAA MathFest &amp; IJCAI-ECAI</div>
+                        <div class="highlight-desc">Panelist for <a href="https://maa.org/events/mathfest-program/student-activities/" target="_blank" rel="noopener noreferrer">Career Paths in Business, Industry, and Government</a> at MAA MathFest; upcoming talk at the <a href="https://nlp4social.github.io/NSG-2026/" target="_blank" rel="noopener noreferrer">Workshop on Foundation Models for Social Good</a>, co-located with IJCAI-ECAI 2026.</div>
                     </div>
-                    <div class="timeline-item upcoming">
-                        <div class="timeline-dot">
-                            <span class="timeline-date">Sep 8–12 '26</span>
-                        </div>
-                        <div class="timeline-content below">
-                            <div class="timeline-content-title">ECCV</div>
-                            <div class="timeline-content-desc">Two papers: <a href="https://arxiv.org/abs/2603.21573" target="_blank" rel="noopener noreferrer">Compositional Privacy Risk Framework</a> and <a href="https://arxiv.org/abs/2603.10178" target="_blank" rel="noopener noreferrer">Video-Based Reward Modeling</a>.</div>
-                        </div>
-                        <span class="timeline-stem below"></span>
+                </div>
+                <div class="highlight-item upcoming">
+                    <div class="highlight-date">Sep 8-12, 2026</div>
+                    <div>
+                        <div class="highlight-title">ECCV</div>
+                        <div class="highlight-desc">Two papers: <a href="https://arxiv.org/abs/2603.21573" target="_blank" rel="noopener noreferrer">Compositional Privacy Risk Framework</a> and <a href="https://arxiv.org/abs/2603.10178" target="_blank" rel="noopener noreferrer">Video-Based Reward Modeling</a>.</div>
                     </div>
-                    <div class="timeline-item upcoming">
-                        <div class="timeline-dot">
-                            <span class="timeline-date">Oct 9 '26</span>
-                        </div>
-                        <div class="timeline-content above">
-                            <div class="timeline-content-title">COLM — Invited Talk</div>
-                            <div class="timeline-content-desc">Invited speaker at <a href="https://advml-frontier.github.io/" target="_blank" rel="noopener noreferrer">AdvML-Frontiers &times; CoTMA</a> workshop on multi-agent AI security.</div>
-                        </div>
-                        <span class="timeline-stem above"></span>
+                </div>
+                <div class="highlight-item upcoming">
+                    <div class="highlight-date">Oct 9, 2026</div>
+                    <div>
+                        <div class="highlight-title">COLM - Invited Talk</div>
+                        <div class="highlight-desc">Invited speaker at <a href="https://advml-frontier.github.io/" target="_blank" rel="noopener noreferrer">AdvML-Frontiers &times; CoTMA</a> workshop on multi-agent AI security.</div>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,133 @@
+\documentclass[11pt]{article}
+
+\usepackage[letterpaper,left=0.68in,right=0.68in,top=0.46in,bottom=0.55in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+\usepackage[hidelinks=false,colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.18em,itemsep=0pt,topsep=1pt,parsep=0pt,partopsep=0pt}
+\linespread{0.96}
+
+\newcommand{\sectionheading}[1]{%
+  \vspace{8pt}%
+  {\large\scshape #1}\par\vspace{1pt}\hrule\vspace{3pt}%
+}
+
+\newcommand{\resumeentry}[5]{%
+  \textbf{#1}\hfill #2\\
+  \textit{#3}\hfill \textit{#4}
+  \begin{itemize}
+    #5
+  \end{itemize}
+  \vspace{2pt}
+}
+
+\newcommand{\socialicons}{%
+  \href{https://www.linkedin.com/in/rahul-gupta-16139818}{\textcolor[HTML]{0077B5}{\Large\faLinkedin}}%
+  \hspace{0.55em}%
+  \href{https://scholar.google.com/citations?user=gSTLsFcAAAAJ}{\textcolor[HTML]{4285F4}{\Large\aiGoogleScholarSquare}}%
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Rahul Gupta}\\[4pt]
+  {\large Senior Applied Science Manager}
+\end{center}
+
+\vspace{12pt}
+
+\begin{minipage}[t]{0.48\textwidth}
+  (213)587-1103\\
+  \href{mailto:rahul.1987iit@gmail.com}{rahul.1987iit@gmail.com}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+  \raggedleft
+  \socialicons
+\end{minipage}
+
+\sectionheading{Highlights}
+\begin{itemize}
+  \item Senior leader for Responsible AI in Amazon's AGI organization, reporting to VP-level leadership and driving safety, evaluation, red-teaming, fairness, privacy, and mitigation programs for frontier models.
+  \item During my tenure at Amazon, led teams as large as 50+ across Amazon Nova safety, LMArena performance, and the Nova Trusted AI Challenge, connecting research strategy to external evaluation and product outcomes.
+  \item Hands-on scientist with first-author work on \href{https://arxiv.org/abs/2607.12200}{CBRN uplift evaluation for frontier language models} and \href{https://dl.acm.org/doi/abs/10.1145/3539597.3575785}{fairness in large-scale NLU systems}; 25+ patented or patent-pending technologies and publications across NeurIPS, ICLR, ACL, EMNLP, FAccT, and ICASSP.
+\end{itemize}
+
+\sectionheading{Technical Experience}
+
+\resumeentry
+  {Senior Applied Science Manager}
+  {June 2026 -- Present}
+  {Amazon/ Frontier AI Assets, Responsible AI}
+  {Cambridge, MA}
+  {\item Overall head of Responsible AI in the newly architected AGI division, reporting directly to a Vice President.}
+
+\resumeentry
+  {Senior Applied Science Manager}
+  {October 2022 -- May 2026}
+  {Amazon AGI/ Nova Responsible AI}
+  {Cambridge, MA}
+  {\item Lead Nova models to be realized as leaders in safety by third party evaluators \href{https://www.openpr.com/news/3785920/anthropic-amazon-lead-the-way-in-ai-safety-for-frontier-models}{[1]}, \href{https://medium.com/aymara-ai/the-aymara-llm-risk-responsibility-matrix-5a243fcf7e38}{[2]}, \href{https://www.amazon.science/blog/independent-evaluations-demonstrate-nova-premiers-safety}{[3]}.
+   \item Lead the Nova LMArena team, driving Nova models to top 15 on LMArena, and the Nova Trusted AI Challenge, generating 100+ applications and 10 participating university teams.}
+
+\resumeentry
+  {Applied Science Manager}
+  {December 2018 -- September 2022}
+  {Amazon Alexa/ Responsible AI}
+  {Cambridge, MA}
+  {\item Founded and led a team to work on Responsible AI research applied to Alexa, building foundational AI safety capabilities into Alexa's platform and products.
+   \item Drove goals to enhance private and unbiased customer experiences, with outcomes reported to Amazon Senior Vice Presidents.}
+
+\resumeentry
+  {Applied Scientist}
+  {August 2016 -- November 2018}
+  {Amazon Alexa/ NLU at scale}
+  {Cambridge, MA}
+  {\item Served as a technical lead on a project to decouple training and testing of large scale ML models.
+   \item Created significant business impact leading to an organizational restructuring.}
+
+\sectionheading{Education}
+
+\textbf{PhD}, \textit{Department of Electrical Engineering, University of Southern California}\hfill 2010 -- 2016\\
+\textbf{Bachelor of Technology}, \textit{Department of Electrical Engineering, Indian Institute of Technology, Kharagpur}\hfill 2006 -- 2010
+
+\sectionheading{Research Leadership \& Service}
+\begin{itemize}
+  \item Organizer of the \href{https://trustnlpworkshop.github.io/}{TrustNLP} workshop series and several other workshops \href{https://trustworthyspeechprocessing.github.io/}{[1]}, \href{https://llmunlearningsemeval2025.github.io/}{[2]}. Reviewer for top tier conferences including ACL, ICLR and ICASSP.
+  \item Point of contact for several \href{https://www.amazon.science/research-awards}{Academic Research Awards} (ARA) collaborations at Amazon, collectively representing over \$20M in funded research.
+  \item Keynote speaker at reputed venues such as \href{https://signalprocessingsociety.org/newsletter/2026/06/bridging-research-and-innovation-ieee-spoken-language-technology-slt-workshop}{IEEE SLT} and other workshops \href{https://advml-frontier.github.io/}{[1]}, \href{https://nlp4social.github.io/NSG-2026/}{[2]}.
+\end{itemize}
+
+\newpage
+
+\sectionheading{Key Publications}
+Full list available at my \href{https://scholar.google.com/citations?user=gSTLsFcAAAAJ}{google scholar page}.
+
+\begin{itemize}
+  \item \href{https://arxiv.org/abs/2101.11718}{BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation}, ACM FACCT 2021. {\color{gray}(700+ citations)}
+  \item \href{https://arxiv.org/abs/2305.09941}{``I'm fully who I am'': Towards centering transgender and non-binary voices to measure biases in open language generation}, ACM FACCT 2023.
+  \item \href{https://arxiv.org/abs/2308.04265}{FLIRT: Feedback Loop In-context Red Teaming}, EMNLP 2024. {\color{gray}Extensive coverage in the red teaming community \href{https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/}{[1]}, \href{https://huggingface.co/papers/2308.04265}{[2]}; \#3 paper of the day on Hugging Face.}
+  \item \href{https://arxiv.org/abs/2507.02825}{Establishing Best Practices for Building Rigorous Agentic Benchmarks}, NeurIPS 2025. {\color{gray}Winner of the AgentX LLM Agents MOOC Competition, 2025.}
+  \item \href{https://arxiv.org/abs/2607.12200}{A Threshold Exceedance Framework for CBRN Uplift Evaluation in Frontier Language Models}, arXiv preprint, 2026. {\color{gray}First-author, hands-on experimentation.}
+\end{itemize}
+
+\sectionheading{Other Recognitions}
+\begin{itemize}
+  \item Ming Hsieh department of Electrical Engineering best PhD pitch award, 2015.
+  \item Two-time winner of Interspeech computational paralinguistics challenge (2013, 2015).
+  \item Phi Beta Kappa alumni in Southern California scholarship, 2015.
+  \item Ming Hsieh department of Electrical Engineering humanitarian award, 2014.
+  \item Provost Ph.D. fellowship, 2010-2014.
+  \item Undergraduate recognitions: InfoUSA exchange Scholar, OPJems scholarship, Rajendra memorial scholarship, 2009.
+\end{itemize}
+
+\end{document}
