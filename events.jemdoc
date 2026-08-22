@@ -1,4 +1,7 @@
 # jemdoc: menu{MENU}{events.html}
+# Note: events.html currently uses custom highlight/gem markup to match the
+# homepage Recent Highlights section. Do not regenerate this page from jemdoc
+# without porting that markup back in.
 = Events 
 
 As part of our focus on responsible AI, I organize workshops, special sessions and tutorials. I list them below and seek participation.

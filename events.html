@@ -6,6 +6,77 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <title>Events </title>
+<style>
+.highlights-list {
+  margin: 18px 0 0;
+}
+.highlight-item {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 18px;
+  position: relative;
+  padding: 0 0 18px 22px;
+}
+.highlight-item:last-child {
+  padding-bottom: 0;
+}
+.highlight-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 7px;
+  width: 10px;
+  height: 10px;
+  background: #3498db;
+  transform: rotate(45deg);
+}
+.highlight-item.upcoming::before {
+  background: #8e44ad;
+}
+.highlight-item.past-recent {
+  color: #6f7780;
+}
+.highlight-item.past-older {
+  color: #9aa3ad;
+}
+.highlight-item.past-recent::before,
+.highlight-item.past-older::before {
+  background: currentColor;
+}
+.highlight-item.past-recent a,
+.highlight-item.past-older a {
+  color: inherit;
+  text-decoration-color: currentColor;
+}
+.highlight-date {
+  color: inherit;
+  font-size: 0.86em;
+  font-weight: 700;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+.highlight-title {
+  color: inherit;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: 3px;
+}
+.highlight-desc {
+  color: inherit;
+  font-size: 0.94em;
+  line-height: 1.5;
+}
+@media (max-width: 768px) {
+  .highlight-item {
+    grid-template-columns: 1fr;
+    gap: 3px;
+    padding-left: 18px;
+  }
+  .highlight-date {
+    white-space: normal;
+  }
+}
+</style>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -30,43 +101,88 @@
 </div>
 <p>As part of our focus on responsible AI, I organize workshops, special sessions and tutorials. I list them below and seek participation.</p>
 <h2>Upcoming </h2>
-<ul>
-<li><p><a href="https://trustnlpworkshop.github.io/">TrustNLP @ NAACL&rsquo;25</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://llmunlearningsemeval2025.github.io/">Unlearning challenge at SemEval&rsquo;25</a></p>
-</li>
-</ul>
+<div class="highlights-list">
+  <div class="highlight-item upcoming">
+    <div class="highlight-date">Oct 9, 2026</div>
+    <div>
+      <div class="highlight-title">COLM Invited Talk</div>
+      <div class="highlight-desc">Invited speaker at <a href="https://advml-frontier.github.io/">AdvML-Frontiers &times; CoTMA</a> workshop on multi-agent AI security.</div>
+    </div>
+  </div>
+</div>
 <h2>Past </h2>
-<ul>
-<li><p><a href="https://trustnlpworkshop.github.io/">TrustNLP @ NAACL&rsquo;24</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://trustworthyspeechprocessing.github.io/">Trustworthy Speech Processing @ ICASSP&rsquo;24</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://trustnlpworkshop.github.io/">TrustNLP @ ACL&rsquo;23</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://trustworthyspeechprocessing.github.io/">Trustworthy Speech Processing special session @ Interspeech &rsquo;24</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://aioskdd.github.io/">Panelist @ AI For Open Society KDD Special Day &rsquo;23</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/">Policy-Industry Panel @ ProperData 3rd Annual Symposium &rsquo;23</a><br /></p>
-</li>
-</ul>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=qB52spVRIvQ">Fairness in AI panel discussion @ NeurIPS 2020,</a> <span style="color: OrangeRed"><b>Youtube video available</span></b></p>
-</li>
-</ul>
+<div class="highlights-list">
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">Jul 2-7, 2026</div>
+    <div>
+      <div class="highlight-title">ACL &amp; TrustNLP</div>
+      <div class="highlight-desc">Co-organized <a href="https://trustnlpworkshop.github.io/">TrustNLP</a>. Presented <a href="https://arxiv.org/abs/2511.14017">LLM Unlearning</a>, <a href="https://arxiv.org/abs/2605.04305">SWAN</a>, <a href="https://arxiv.org/abs/2604.18789">ARES</a>, and <a href="https://web.cs.ucla.edu/~kwchang/bibliography/osebe2026autosuit/">AutoSUIT Bench</a>.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">2025</div>
+    <div>
+      <div class="highlight-title"><a href="https://trustnlpworkshop.github.io/">TrustNLP @ NAACL&rsquo;25</a></div>
+      <div class="highlight-desc">Co-organized the workshop series on trustworthy NLP.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">2025</div>
+    <div>
+      <div class="highlight-title"><a href="https://llmunlearningsemeval2025.github.io/">Unlearning Challenge @ SemEval&rsquo;25</a></div>
+      <div class="highlight-desc">Co-organized a shared task focused on LLM unlearning.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">2024</div>
+    <div>
+      <div class="highlight-title"><a href="https://trustnlpworkshop.github.io/">TrustNLP @ NAACL&rsquo;24</a></div>
+      <div class="highlight-desc">Co-organized the workshop series on trustworthy NLP.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">2024</div>
+    <div>
+      <div class="highlight-title"><a href="https://trustworthyspeechprocessing.github.io/">Trustworthy Speech Processing @ ICASSP&rsquo;24</a></div>
+      <div class="highlight-desc">Co-organized a workshop on trustworthy speech processing.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-recent">
+    <div class="highlight-date">2024</div>
+    <div>
+      <div class="highlight-title"><a href="https://trustworthyspeechprocessing.github.io/">Trustworthy Speech Processing @ Interspeech&rsquo;24</a></div>
+      <div class="highlight-desc">Co-organized a special session on trustworthy speech processing.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-older">
+    <div class="highlight-date">2023</div>
+    <div>
+      <div class="highlight-title"><a href="https://trustnlpworkshop.github.io/">TrustNLP @ ACL&rsquo;23</a></div>
+      <div class="highlight-desc">Co-organized the workshop series on trustworthy NLP.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-older">
+    <div class="highlight-date">2023</div>
+    <div>
+      <div class="highlight-title"><a href="https://aioskdd.github.io/">AI For Open Society @ KDD Special Day&rsquo;23</a></div>
+      <div class="highlight-desc">Invited panelist.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-older">
+    <div class="highlight-date">2023</div>
+    <div>
+      <div class="highlight-title"><a href="https://properdata.eng.uci.edu/2023/08/08/properdata-annual-symposium-2023/">ProperData 3rd Annual Symposium</a></div>
+      <div class="highlight-desc">Policy-industry panelist.</div>
+    </div>
+  </div>
+  <div class="highlight-item past-older">
+    <div class="highlight-date">2020</div>
+    <div>
+      <div class="highlight-title"><a href="https://www.youtube.com/watch?v=qB52spVRIvQ">Fairness in AI @ NeurIPS</a></div>
+      <div class="highlight-desc"><span style="color: OrangeRed"><b>YouTube video available</b></span>.</div>
+    </div>
+  </div>
+</div>
 <div id="footer">
 <div id="footer-text">
 Page generated 2025-05-03 20:12:34 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
