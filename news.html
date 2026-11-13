@@ -86,12 +86,23 @@
             background: #8e44ad;
         }
 
-        .highlight-item.past-recent::before {
-            background: #6f7780;
+        .highlight-item.past-recent {
+            color: #6f7780;
         }
 
+        .highlight-item.past-older {
+            color: #9aa3ad;
+        }
+
+        .highlight-item.past-recent::before,
         .highlight-item.past-older::before {
-            background: #9aa3ad;
+            background: currentColor;
+        }
+
+        .highlight-item.past-recent a,
+        .highlight-item.past-older a {
+            color: inherit;
+            text-decoration-color: currentColor;
         }
 
         .highlight-date {
